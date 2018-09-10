@@ -1,0 +1,32 @@
+.git-box {
+	display: flex;
+	background-image: url('./img/box.png');
+	background-repeat-x: no-repeat;
+	background-repeat-y: repeat;
+	background-size: 32px 32px;
+	height: 32px;
+	margin-left: -1.5em;
+	padding-left: 1.5em;
+	z-index: 1;
+}
+
+
+.git-box--medium {
+	background-image: url('./img/at-box.png');
+	background-size: 24px 24px;
+	height: 24px;
+}
+
+.git-box--small {
+	background-size: 16px 16px;
+	height: 16px;
+}
+
+
+.git-box--big {
+	background-size: 48px 48px;
+	margin-left: -1.5em;
+	padding-left: 1.7em;
+	height: 48px;
+	margin-bottom: 0px;
+}

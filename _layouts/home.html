@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container blog">
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="blog-list">
+      {%- for post in site.posts -%}
+      <li class="blog-list__item">
+        <span class="line"></span>
+        {%- assign date_format = "%b %-d, %Y" -%}
+        <h3 class="blog-list__header">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        <h2 class="tag is-white">{{ post.date | date: date_format }}</h2>
+        {%- for category in post.categories -%}
+        <span class="category-list"> {{category}} /</span>
+        {%- endfor -%}
+
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}        
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>

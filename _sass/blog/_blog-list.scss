@@ -1,0 +1,37 @@
+.blog-list {
+	position: relative;
+	top: 0.5em;
+	width: 60%;
+	margin: auto;
+}
+
+.blog-list__item {
+	padding-bottom: 1em;
+}
+
+.blog-list__item > h3 {
+	@extend .git-box;
+	margin-left: -1.25em;
+	padding-left: 1.5em;
+}
+.blog-list__item > h2 {
+	background-image: none;
+}
+
+.blog-list__header {
+	@extend .title;
+	>a {
+		color: #4a4a4a;
+		display: inline-block;
+		word-break: break-word;
+	}
+	display: inline-block;
+	word-break: break-word;
+	@include tablet {
+		margin-bottom: 0 !important;
+	}
+	@include mobile {
+		margin-bottom: 1.4em !important;
+	}
+	padding-top: 0 !important;
+}

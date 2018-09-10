@@ -1,0 +1,14 @@
+.post {
+	position: relative;
+	width: 60%;
+	margin: auto;
+	margin-top: 0.5em;
+}
+
+.post__title {
+	@extend .title;
+	display: inline-block;
+
+	margin-bottom: 0 !important;
+	padding-top: 0 !important;
+}

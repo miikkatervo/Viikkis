@@ -1,0 +1,18 @@
+.md-content {
+	@extend .content;
+}
+
+.md-content > h2 {
+	@extend .content;
+	@extend .git-box;
+}
+
+.md-content ol {
+	margin-top: 0px;
+}
+
+.md-content > h3 {
+	@extend .content;
+	@extend .git-box;
+	@extend .git-box--medium;
+}
