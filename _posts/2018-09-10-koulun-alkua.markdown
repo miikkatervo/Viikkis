@@ -53,7 +53,7 @@ Saavu siis T-talolle torstaina 13.9. klo 16:15 työntämään liikkeelle eeppise
 Tervetuloa ensimmäisen opiskeluviikon kunniaksi rentoutumaan Takkakabinetin lämpöön! Luvassa monipuolinen tarjonta pelejä korteista virtuaalisiin, sekä suussasulavia lettuja. Nappaa mukaan omat suosikkipelisi, ja seuraa vain nopan kilinää tai taikinan tuoksua kohti Jämeräntaival 3:ta!
 
 ### 4. Liity tiedotuskanaville
-Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotuskanavalle <https://t.me/tikfuksitiedostus18> (Telegramissa @tikfuksitiedotus18). Lisäksi liity koko killan yhteiselle tiedotuskanavalle <https://t.me/tiktiedotus> (Telegramissa @tiktiedotus)
+Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotuskanavalle <https://t.me/tikfuksitiedotus18> (Telegramissa @tikfuksitiedotus18). Lisäksi liity koko killan yhteiselle tiedotuskanavalle <https://t.me/tiktiedotus> (Telegramissa @tiktiedotus)
 
 
 ## Fuksi- ja kilta-asiat
