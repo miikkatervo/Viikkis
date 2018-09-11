@@ -16,6 +16,7 @@ Tästä tapahtumasta saat vapaan pisteen
 {: .vapaa}
 
 Uudet julkaisut pitää nimetä YYYY-MM-DD-julkaisun-nimi. ja jokaisen alussa pitää olla tunniste, kuten alla
+
 \---
 layout: post
 title:  "Kapteenin viikkomaili 1/2018 - Esimerkki"
