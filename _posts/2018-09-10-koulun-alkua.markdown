@@ -10,14 +10,14 @@ Heipä hei! Tässä on teidän ensimmäinen kapteenin viikkomaili. Tällä viiko
 Tämän viikkomailin ideana on pitää teidän fuksit kärryillä tulevista tapahtumista. Tiedote ilmestyy epäsäännöllisen säännöllisesti viikottain, ja siinä kerrotaan killan omista tapahtumista, fukseille suunnatuista asioista ja monesta muusta.
 
 ## Sisällysluettelo
-1.	Tärkeää
+1.	[Tärkeää](#tärkeää)
 	1. Ilmoittaudu fuksisitseille!
 	2. Otatarhan ajokin lähtölaukaus 13.9 torstaina klo 17:15 T-talolla
 	3. Lettu- ja peli-ilta 13.9 torstaina klo 17:15 Takkakabinetissa
 	4. Liity tiedotuskanaville
-2. Fuksi- ja kilta-asiat
+2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Stadisuunnistus 11.9 klo 18:00 @ Senaatintori
-3. Muut
+3. [Muut](#muut)
 	1. Lakinlaskijaisten lipunmyynti aukeaa
 
 ## Tärkeää
