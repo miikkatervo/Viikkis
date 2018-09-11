@@ -11,12 +11,10 @@ layout: default
       <li class="blog-list__item">
         <span class="line"></span>
         {%- assign date_format = "%b %-d, %Y" -%}
-        <h3 class="blog-list__header">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <h2 class="tag is-white">{{ post.date | date: date_format }}</h2>
+        <a class="blog-list__header" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+        <div class="tag is-white">{{ post.date | date: date_format }}</div>
         {%- for category in post.categories -%}
         <span class="category-list"> {{category}} /</span>
         {%- endfor -%}
