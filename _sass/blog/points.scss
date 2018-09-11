@@ -1,0 +1,40 @@
+.point {
+	display: inline-block;
+	background-image: url('./img/points/master.png');
+	background-repeat: no-repeat;
+	background-size: 40px 40px;
+	font-style: italic;
+	padding-bottom: 1em;
+	padding-left: 3em;
+	padding-top: 0.5em;
+}
+
+.bileet {
+	@extend .point;
+	background-image: url('./img/points/bileet.png');
+}
+
+.kilta {
+	@extend .point;
+	background-image: url('./img/points/kilta.png');
+}
+
+.suunnistukset {
+	@extend .point;
+	background-image: url('./img/points/suunnistukset.png');
+}
+
+.teekkarikulttuuri {
+	@extend .point;
+	background-image: url('./img/points/teekkarikulttuuri.png');
+}
+
+.tyo {
+	@extend .point;
+	background-image: url('./img/points/tyo.png');
+}
+
+.vapaa {
+	@extend .point;
+	background-image: url('./img/points/vapaa.png');
+}

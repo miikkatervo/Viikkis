@@ -42,6 +42,9 @@ Ilmoittautumien on sitova ilmon sulkeuduttua.
 * MAKSAA: Fuksit 10e, ISOt ja kutsuvieraat 20e
 * DRESSCODE: Miehillä tumma puku ja naisilla cocktailmekko
 
+Fuksisitseistä saat fuksipistekorttiisi fuksisitsi pisteen
+{: .bileet}
+
 ### 2. Otatarhan ajojen lähtölaukaus 13.9 @ T-Talo
 Lakinlaskijaispäivä käynnistetään tänäkin vuonna Otatarhan ajoilla, eli kilpailulla, josta ei vauhtia tai hauskanpitoa puutu!
 
@@ -68,6 +71,9 @@ Rastit ovat auki 18:00-21:30 ja jatkot järjestetään Club Capitalissa osoittee
 
 Sisäänpääsy jatkoille maksaa 1,5€ + narikka 3,5€.
 
+Stadisuunnistuksesta saat pistekorttiisi stadisuunnistus-pisteen!
+{: .suunnistukset}
+
 ## Muut
 
 ### 1. Lakinlaskijaisten lipunmyynti aukeaa
@@ -76,3 +82,6 @@ Lakinlaskijaiset tulee ja tapahtuman nettilipunmyynti alkaa jo huomenna kello 12
 Tapahtumalippuja voi ostaa osoitteesta <https://bailataan.fi/events/68c5097b-b119-4d99-a3e1-77f27c2c4a44> sekä viikolla 39 järjestettävistä lipunmyynneistä kandikeskuksessa. 
 
 Päälavalla illan aloittaa suomalainen uuden sukupolven pop-artisti Aleksanteri Hakaniemi jonka jälkeen meininki huipentuu, kun Saksasta asti lavaa saapuu tömistämään kesähittejä tahkonnut ItaloBrothers!
+
+Lakinlaskijaisista saat pistekorttiisi lakinlaskijais-pisteen!
+{: .bileet}
