@@ -16,14 +16,12 @@ Tästä tapahtumasta saat vapaan pisteen
 {: .vapaa}
 
 Uudet julkaisut pitää nimetä YYYY-MM-DD-julkaisun-nimi. ja jokaisen alussa pitää olla tunniste, kuten alla
-<code>
----
+\---
 layout: post
 title:  "Kapteenin viikkomaili 1/2018 - Esimerkki"
 date:   2018-09-10
 categories: fuksit
----
-</code>
+\---
 
 Kun uusi julkaisu on tehty, pitää vain commitoida se ja pushata gittiin.
 
