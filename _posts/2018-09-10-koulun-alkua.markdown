@@ -42,8 +42,8 @@ Ilmoittautumien on sitova ilmon sulkeuduttua.
 * MAKSAA: Fuksit 10e, ISOt ja kutsuvieraat 20e
 * DRESSCODE: Miehillä tumma puku ja naisilla cocktailmekko
 
-Fuksisitseistä saat fuksipistekorttiisi fuksisitsi pisteen
-{: .bileet}
+Fuksisitseistä saat fuksipistekorttiisi fuksisitsi-pisteen
+{: .kilta}
 
 ### 2. Otatarhan ajojen lähtölaukaus 13.9 @ T-Talo
 Lakinlaskijaispäivä käynnistetään tänäkin vuonna Otatarhan ajoilla, eli kilpailulla, josta ei vauhtia tai hauskanpitoa puutu!
