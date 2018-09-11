@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Koulun alkua"
+title:  "Kapteenin viikkomaili 1/2018 - Koulun alkua"
 date:   2018-09-10
 categories: fuksit
 ---
