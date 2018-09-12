@@ -12,7 +12,7 @@ Tämän viikkomailin ideana on pitää teidän fuksit kärryillä tulevista tapa
 ## Sisällysluettelo
 1.	[Tärkeää](#tärkeää)
 	1. Ilmoittaudu fuksisitseille!
-	2. Otatarhan ajokin lähtölaukaus 13.9 torstaina klo 17:15 T-talolla
+	2. Otatarhan ajokin lähtölaukaus 13.9 torstaina klo 17:15 T-talolla salissa T2
 	3. Lettu- ja peli-ilta 13.9 torstaina klo 17:15 Takkakabinetissa
 	4. Liity tiedotuskanaville
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
@@ -45,7 +45,7 @@ Ilmoittautumien on sitova ilmon sulkeuduttua.
 Fuksisitseistä saat fuksipistekorttiisi fuksisitsi-pisteen
 {: .kilta}
 
-### 2. Otatarhan ajojen lähtölaukaus 13.9 @ T-Talo
+### 2. Otatarhan ajojen lähtölaukaus 13.9 @ T-Talo, T2
 Lakinlaskijaispäivä käynnistetään tänäkin vuonna Otatarhan ajoilla, eli kilpailulla, josta ei vauhtia tai hauskanpitoa puutu!
 
 Haasta kisaan itsesi ja muut, suunnittele mahtavin kulkupeli, toteuta se ja tule taistelemaan voitosta vuoden tiukimpiin aika-ajoihin Ossinlammelle! Perinteisesti jokaisen killan fuksit ovat osallistuneet tähän F1-kilpailujakin hurjempaan mittelöön itsetehdyllä, ei-moottoroidulla ajoneuvolla. Pisteitä on jaossa ajokin tyylikkyyden ja nopeuden lisäksi myös tiimin meiningistä. Kisassa parhaiten menestyneet palkitaan ruhtinaallisesti, joten valmistautuminen kilpailuun kannattaa aloittaa NYT!
