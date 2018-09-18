@@ -14,6 +14,8 @@ Heissuli vei! Tällä viikolla teillä on edessänne ensimmäiset sitsinne: Tiet
 	3. Liity tiedotuskanaville
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Lalasauna 25.9 klo 18:00 @ Rantasauna
+3. [Muut](#muut)
+	1. Humans vs Zombies Otaniemi
 
 ## Tärkeää
 
@@ -57,3 +59,23 @@ Tule tiistaina 25.9. rantasaunalle lauleskelemaan ja nauttimaan hyvästä seuras
 
 Voit suorittaa lalasaunassa pisteen pisteet/master - Laulukoe!
 {: .master}
+
+## Muut
+
+### 1. Humans vs Zombies Otaniemi
+Tapahtuma alkaa 19.9. klo 10:00 ja päättyy 23.9. klo 18:00. Ilmoittautuminen on auki 18.9. klo 21.00 asti osoitteessa <https://lomake.ayy.fi/aava/hvz/>
+
+Ihmiset vastaan Zombit on moderoitu hippapeli, jossa zombi-pelaajat yrittävät levittää infektiota ottamalla ihmisiä kiinni. Ihmiset voivat puolustautua piiloutumalla, pakenemalla tai taistelemalla käyttäen sukkia tai nerf-pyssyjä zombeja vastaan. Pelin ohessa on erilaisia tehtäviä tekemässä pelistä mielenkiintoisempaa. HvZ on joukkuepeli, joten pelissä myös varmasti tutustuu uusiin ihmisiin. Peli on alunperin luotu Otaniemen kaltaisille kampuksille, joten pääsemme pelaamaan tätä peliä Suomen parhaimmassa paikassa!
+
+Osallistuminen on täysin ilmaista. Pelissä tarvittavan huivin ja erityishärpäkkeet saa järjestäjiltä. Sinun tarvitsee vain ilmoittautua, tulla paikalle ja pelata.
+
+Tiistaina 18.9. klo 16.15 järjestetään infotilaisuus pelin säännöistä, missä moderaattorit pitävät pienen presiksen ja vastaavat pelistä heränneisiin kysymyksiin. Infotilaisuus pidetään Kandidaattikeskuksen E-salissa (Otakaari 1).
+
+Pelin säännöt löytyvät täältä: <https://docs.google.com/document/d/1987mA_3xeu4my_epuEdtsovsxcJ358ohHHtfqujjAVo/>
+
+Pelin jälkeen sunnuntai-iltana järjestetään Rantasaunalla pelin loppusauna virkistäytymiseen ja pelikäänteiden selvittelyyn.
+
+Pelin facebook-tapahtuma löytyy täältä: <https://www.facebook.com/events/399736280561189/>
+
+Tapahtumaan osallistumalla voit saada pisteen pisteet/vapaa - Vapaapiste!
+{: .vapaa}
