@@ -12,6 +12,8 @@ Heissuli vei! Tällä viikolla teillä on edessänne ensimmäiset sitsinne: Tiet
 	1. Otatarhan ajokin rakennus
 	2. Fuksisitsit 21.9 klo 18:00 @ T-talo
 	3. Liity tiedotuskanaville
+2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
+	1. Lalasauna 25.9 klo 18:00 @ Rantasauna
 
 ## Tärkeää
 
@@ -44,3 +46,14 @@ Fuksisitseistä saat fuksipistekorttiisi pisteen pisteet/kilta - Fuksisitsit!
 
 ### 3. Liity tiedotuskanaville
 Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotuskanavalle <https://t.me/tikfuksitiedotus18> (Telegramissa @tikfuksitiedotus18). Lisäksi liity koko killan yhteiselle tiedotuskanavalle <https://t.me/tiktiedotus> (Telegramissa @tiktiedotus)
+
+
+## Fuksi- ja kilta-asiat
+
+### 1. Lalasauna
+Jäikö sitseistä tunne, että ei saanut laulaa tarpeeksi? Vai haluatko suorittaa laulukoe-pisteen hyvissä ajoin?
+
+Tule tiistaina 25.9. rantasaunalle lauleskelemaan ja nauttimaan hyvästä seurasta. Paikalla löytyy saunaa, ruokaa ja juomaa. Jopa karaokeakin saattaa päästä kokeilemaan. Lisäksi tietenkin on mahdollisuus suorittaa pakollinen laulukoe.
+
+Voit suorittaa lalasaunassa pisteen pisteet/master - Laulukoe!
+{: .master}

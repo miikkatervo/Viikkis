@@ -38,3 +38,11 @@
 	@extend .point;
 	background-image: url('./img/points/vapaa.png');
 }
+
+.master {
+	@extend .point;
+	background-image: url('./img/points/master.png');
+	background-size: 44px 88px;
+	padding-top: 1em;
+	padding-bottom: 4em;
+}
