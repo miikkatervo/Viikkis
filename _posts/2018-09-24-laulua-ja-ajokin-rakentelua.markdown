@@ -5,35 +5,41 @@ date:   2018-09-24
 categories: fuksit
 ---
 
-Terveppä terve! Tällä viikolla otatarhan ajoihin valmistuminen jatkuu, ja pian päästäänkin jo kisaamaan!  Toivottavasti kaikki viihdyitte sitseillä, minulla ainakin oli uskomattoman hauskaaa. Tiistaina sitten päästään laulamaan vielä lisää Lalasaunalla ja vielä lisäksi suorittamaan laulukoe! 
+Terveppä terve! Tällä viikolla Otatarhan ajoihin valmistuminen jatkuu, ja pian päästäänkin jo kisaamaan!  Toivottavasti kaikki viihdyitte sitseillä, minulla ainakin oli uskomattoman hauskaa. Tiistaina sitten päästään laulamaan vielä lisää Lalasaunalla ja vielä lisäksi suorittamaan laulukoe! 
 
-Jotkut teistä varmasti miettivät, että tulevatko ne haalarit ikinä? Ei syytä huoleen! Haalarit ovat pian täällä, ja otatarhan ajoissa kaikilla pitäisi olla jo omat päällänsä.
+Jotkut teistä varmasti miettivät, että tulevatko ne haalarit ikinä? Ei syytä huoleen! Haalarit ovat pian täällä, ja Otatarhan ajoissa kaikilla pitäisi olla jo omat päällänsä.
 
 Muita tärkeitä asioita tällä viikolla on Dipolin ja Polin Approjen lipunmyynti, eli niitä kannattaa lähteä hyvissä ajoin ostamaan. Approlla tarkoitetaan akaateemisissa piireissä baarisuunnistusta.
 
 ## Sisällysluettelo
 1.	[Tärkeää](#tärkeää)
-	1. Otatarhan ajokin rakennus
+	1. Otatarhan ajokin rakennus ja Otatarhan ajot 1.10
 	2. Lalasauna 25.9 klo 18:00 @ Rantasauna
 	3. Liity tiedotuskanaville
 3. [Ayy](#ayy)
-	1. Lakinlaskijaiset
+	1. Lakinlaskijaiset 1.10
 	3. Dipolin Appro 16.10
-	4. Polin Appro
+	4. Polin Appro 7.11
 
 
 ## Tärkeää
 
-## 1. Otatarhan ajokin rakennus
+### 1. Otatarhan ajokin rakennus ja Otatarhan ajot 1.10
+
+
 Otatarhan ajokin rakentaminen jatkuu! Aikaa on jäljellä enään viikko! Eli nyt kaikki mukaan rakentamaan, jotta saadaan voitto kotiin. Jos siis et ole vielä mukana päätä huimaavan ajokin rakentamisessa, niin ota yhteyttä Mattiin (Telegramissa @Masakilleri)
 
+Otatarhan ajot ovat 1.10 järjestettävä päätä huimaava kisa! Kisa tapahtuu Alvarin aukiolla, jossa joukkueet kilpailevat itsetehdyillä, ei-moottoroiduilla ajoneuvoilla. Pisteitä on jaossa ajokin esteettisyyden ja nopeuden lisäksi myös tiimin meiningistä!
+
+Otatarhan ajoihin osallistumisesta saat pisteen pisteet/teekkarikulttuuri - Otatarhan ajot!
+{: .teekkarikulttuuri}
 Aktiivisesta rakentamisesta saat pisteen pisteet/teekkarikulttuuri/työ - Työpiste!
 {: .tyo}
 
 ### 1. Lalasauna
 Jäikö sitseistä tunne, että ei saanut laulaa tarpeeksi? Vai haluatko suorittaa laulukoe-pisteen hyvissä ajoin?
 
-Tule tiistaina 25.9. rantasaunalle lauleskelemaan ja nauttimaan hyvästä seurasta. Paikalla löytyy saunaa, ruokaa ja juomaa. Jopa karaokeakin saattaa päästä kokeilemaan. Lisäksi tietenkin on mahdollisuus suorittaa pakollinen laulukoe.
+Tule tiistaina 25.9. Rantasaunalle lauleskelemaan ja nauttimaan hyvästä seurasta. Paikalla löytyy saunaa, ruokaa ja juomaa. Jopa karaokeakin saattaa päästä kokeilemaan. Lisäksi tietenkin on mahdollisuus suorittaa pakollinen laulukoe.
 
 Voit suorittaa lalasaunassa pisteen pisteet/master - Laulukoe!
 {: .master}
