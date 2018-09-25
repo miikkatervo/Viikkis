@@ -36,7 +36,7 @@ Otatarhan ajoihin osallistumisesta saat pisteen pisteet/teekkarikulttuuri - Otat
 Aktiivisesta rakentamisesta saat pisteen pisteet/teekkarikulttuuri/työ - Työpiste!
 {: .tyo}
 
-### 1. Lalasauna
+### 2. Lalasauna
 Jäikö sitseistä tunne, että ei saanut laulaa tarpeeksi? Vai haluatko suorittaa laulukoe-pisteen hyvissä ajoin?
 
 Tule tiistaina 25.9. Rantasaunalle lauleskelemaan ja nauttimaan hyvästä seurasta. Paikalla löytyy saunaa, ruokaa ja juomaa. Jopa karaokeakin saattaa päästä kokeilemaan. Lisäksi tietenkin on mahdollisuus suorittaa pakollinen laulukoe.
