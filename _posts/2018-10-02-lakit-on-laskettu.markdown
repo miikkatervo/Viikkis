@@ -5,7 +5,7 @@ date:   2018-10-02
 categories: fuksit
 ---
 
-Hellurei fuksit! Otatarhan ajot olivat suuri menestys ja meininki oli aivan mahtava. Paras joukkue selvästi voitti. Osallistukaa tuleviinkin koitoksiin samalla meiningillä. Seuraava iso projektinne on Cännärit, josta lisätietoa saatte ensiviikolla! Lisäksi muistakaa hakea omat uutukaiset haalarinne kiltahuoneelta. Haalarit maksavat 20e kappale, ja maksaa voi käteisellä tai MobilePaylla
+Hellurei fuksit! Otatarhan ajot olivat suuri menestys ja meininki oli aivan mahtava. Paras joukkue selvästi voitti. Osallistukaa tuleviinkin koitoksiin samalla meiningillä. Seuraava iso projektinne on Cännärit, josta lisätietoa saatte ensi viikolla! Lisäksi muistakaa hakea omat uutukaiset haalarinne kiltahuoneelta. Haalarit maksavat 20e kappale, ja maksaa voi käteisellä tai MobilePaylla.
 
 
 Tällä viikolla on muutama tärkeä ilmoittautuminen: Fuksicruise ja ensimmäiset museokierrokset! Fuksicruisen ilmo aukeaakin jo huomenna, eli pitäkää se mielessä. Museokierroksien ilmot aukeavat vasta myöhemmin viikolla.
@@ -39,7 +39,7 @@ Osallistumalla Fuksicruiseen saat pisteen pisteet/kilta - Fuksicruise
 ### 2. Cännäri-info 11.10 klo 16:00 @ T-Talo
 Tietokillan fuksien bileiden suunnittelu pistetään jälleen kerran käyntiin. Paniikissa olette varmaankin huomanneet aikaisempien vuosien juhlien julisteita. Nyt on teidän vuoronne!
 
-Infotilaisuudessa 11.10. klo 16:00 T-talolla kerrotaan mistä ihmeestä tässä on oikein kyse. Kuuulette vanhoilta tekiöiltä vinkit ja pääsette aloittamaan omien bileittenne suunnittelun.
+Infotilaisuudessa 11.10. klo 16:00 T-talolla kerrotaan mistä ihmeestä tässä on oikein kyse. Kuuulette vanhoilta tekijöiltä vinkit ja pääsette aloittamaan omien bileittenne suunnittelun.
 
 Tekemällä töitä Cännärien eteen saat pisteen pisteet/teekkarikulttuuri/työ - Cännärit!
 {: .tyo}
