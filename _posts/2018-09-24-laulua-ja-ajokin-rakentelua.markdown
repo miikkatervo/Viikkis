@@ -36,7 +36,7 @@ Otatarhan ajoihin osallistumisesta saat pisteen pisteet/teekkarikulttuuri - Otat
 Aktiivisesta rakentamisesta saat pisteen pisteet/teekkarikulttuuri/työ - Työpiste!
 {: .tyo}
 
-### 1. Lalasauna
+### 2. Lalasauna
 Jäikö sitseistä tunne, että ei saanut laulaa tarpeeksi? Vai haluatko suorittaa laulukoe-pisteen hyvissä ajoin?
 
 Tule tiistaina 25.9. Rantasaunalle lauleskelemaan ja nauttimaan hyvästä seurasta. Paikalla löytyy saunaa, ruokaa ja juomaa. Jopa karaokeakin saattaa päästä kokeilemaan. Lisäksi tietenkin on mahdollisuus suorittaa pakollinen laulukoe.
@@ -75,7 +75,7 @@ tallentaa mieleen seuraavat asiat.
 - Lippu myydään vain yhdessä Polin Appron lipun kanssa hintaan 20€
 - Lippuja on saatavilla vain rajoitettu määrä
 
-<https://www.facebook.com/events/325580781514002/>
+[Facebook](https://www.facebook.com/events/325580781514002/)
 
 Dipolin Approihin osallistumisella saat pisteen pisteet/teekkarikulttuuri - Appro!
 {: .teekkarikulttuuri} 
@@ -89,8 +89,8 @@ Tänä vuonna Polin Appron teemana on Back to the Future eli osallistujia kehote
 
 Lippuja voit ostaa lipunmyyntipisteistä tai bailataan.fi:stä. Lipunmyyntiajat päivitetään tapahtumaan. Lippu maksaa 14€  ja jatkojen narikkamaksu sisältyy hintaan.
 
-<https://www.facebook.com/events/659131151139641/>
+[Facebook](https://www.facebook.com/events/659131151139641/)
 
-Dipolin Approihin osallistumisella saat pisteen pisteet/teekkarikulttuuri - Appro!
+Polin Approihin osallistumisella saat pisteen pisteet/teekkarikulttuuri - Appro!
 {: .teekkarikulttuuri}
 
