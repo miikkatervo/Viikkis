@@ -18,6 +18,8 @@ Muita tärkeitä asioita on Cännäri-info, joka jouduttiin valitettavasti siirt
 	1. Museokierrokset
 	2. SCI:n HalloweenJännäJännä 28.10.
 	3. Fuksien juhlasitsit 6.11.
+3. [Muut](#muut)
+	1. Aalto Amazing Race 2018
 
 
 ## Tärkeää
@@ -82,3 +84,20 @@ Fuksien juhlasitsit lähestyvät ja sitsit ovat 6. marraskuuta. Eli save the dat
 
 Osallistumalla sitseille voit saada pisteen pisteet/teekkarikulttuuri - Sitsit pisteen!
 {: .teekkarikulttuuri}
+
+## Muut
+
+### 1. Aalto Amazing Race 2018
+
+Kaikille Aallon ensimmäisen vuoden opiskelijoille suunnattu Aalto Amazing race on huikea seikkailukilpailu, jossa fuksit/mursut/ykköset pääsevät tutustumaan Aaltolaisiin oman opiskelualansa ulkopuolelta. Seikkailussa joukkueet etenevät kohti maalia ratkomalla erilaisia tehtäviä ja vihjeitä, samalla kisaten kelloa vastaan. Maaliin päässeitä odottavat uskomattomat jatkot. Tapahtuma on ilmainen. 
+
+Osallistujat jaetaan järjestäjän toimesta poikkitieteellisiin joukkueisiin. Joukkueeseen saa halutessaan valita mukaan yhden kaverin. Itse matka starttaa torstaina 18.10., lähdöt porrastetusti klo 15 alkaen Otaniemestä. Tällöin osallistujat saavat tietää oman ryhmänsä ja ensimmäisen vihjeen. 
+
+Ilmoittautuminen kisaan aukeaa tiistaina 9.10 klo 12:00. Ilmoittautumisosoite: <https://lomake.ayy.fi/aava/aalto-amazing-race-2018/>
+Paikkoja kisaan on rajoitetusti.
+
+MITÄ: Aalto Amazing Race 2018
+MISSÄ: Lähtö Otaniemestä 
+MILLOIN: 18. lokakuuta klo 15 ->
+MITÄ MUKAAN: Haalarit tai muu yhdistyksen vaatetus(jos on), säänmukainen vaatetus ja HSL-matkakortti
+HINTA: 0€ (sisältää ruuan jatkoilla 🎉)
