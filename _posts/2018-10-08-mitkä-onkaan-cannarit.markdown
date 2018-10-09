@@ -96,8 +96,8 @@ Osallistujat jaetaan järjestäjän toimesta poikkitieteellisiin joukkueisiin. J
 Ilmoittautuminen kisaan aukeaa tiistaina 9.10 klo 12:00. Ilmoittautumisosoite: <https://lomake.ayy.fi/aava/aalto-amazing-race-2018/>
 Paikkoja kisaan on rajoitetusti.
 
-MITÄ: Aalto Amazing Race 2018
-MISSÄ: Lähtö Otaniemestä 
-MILLOIN: 18. lokakuuta klo 15 ->
-MITÄ MUKAAN: Haalarit tai muu yhdistyksen vaatetus(jos on), säänmukainen vaatetus ja HSL-matkakortti
-HINTA: 0€ (sisältää ruuan jatkoilla 🎉)
+* MITÄ: Aalto Amazing Race 2018
+* MISSÄ: Lähtö Otaniemestä 
+* MILLOIN: 18. lokakuuta klo 15 ->
+* MITÄ MUKAAN: Haalarit tai muu yhdistyksen vaatetus(jos on), säänmukainen vaatetus ja HSL-matkakortti
+* HINTA: 0€ (sisältää ruuan jatkoilla 🎉)
