@@ -4,7 +4,7 @@ title:  "Kapteenin viikkomaili 5/2018 - Mitkä onkaan Cännärit"
 date:   2018-10-08
 categories: fuksit
 ---
-Morjensta! Museokierrokset onkin jo täyttyneet mukavasti, muistakaa loputkin ilmoittautua mukaan, sillä museon suorittaminen keväällä on vaikeampaa. Museokäyntiä ei myöskään voi välttää, eli nyt on paras hetki käydä kierroksella
+Morjensta! Museokierrokset onkin jo täyttyneet mukavasti, muistakaa loputkin ilmoittautua mukaan, sillä museon suorittaminen keväällä on vaikeampaa. Museokäyntiä ei myöskään voi välttää, eli nyt on paras hetki käydä kierroksella.
 
 Muita tärkeitä asioita on Cännäri-info, joka jouduttiin valitettavasti siirtämään ensi viikon tiistaille yliopiston tilakadon vuoksi. Joka tapauksessa tämä ei ole suuri menetys, eli tulkaa kaikki ensi viikon tiistaina paikalle!
 
@@ -42,7 +42,7 @@ Osallistumalla Fuksicruiseen saat pisteen pisteet/kilta - Fuksicruise
 ### 2. Cännäri-info 16.10 klo 16:00 @ T-Talo T3
 Tietokillan fuksien bileiden suunnittelu pistetään jälleen kerran käyntiin. Paniikissa olette varmaankin huomanneet aikaisempien vuosien juhlien julisteita. Nyt on teidän vuoronne!
 
-Infotilaisuudessa 11.10. klo 16:00 T-talolla kerrotaan mistä ihmeestä tässä on oikein kyse. Kuuulette vanhoilta tekijöiltä vinkit ja pääsette aloittamaan omien bileittenne suunnittelun.
+Infotilaisuudessa 16.10. klo 16:00 T-talolla kerrotaan mistä ihmeestä tässä on oikein kyse. Kuuulette vanhoilta tekijöiltä vinkit ja pääsette aloittamaan omien bileittenne suunnittelun.
 
 Tekemällä töitä Cännärien eteen saat pisteen pisteet/teekkarikulttuuri/työ - Cännärit!
 {: .tyo}
