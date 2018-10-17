@@ -15,6 +15,7 @@ Kuten huomaatte viikkoviesti tuleekin nyt näin keskellä viikkoa. Pahoittelen s
 	2. Liity tiedotuskanaville
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Fuksien juhlasitsit 6.11.
+	2. Cännärit
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
 ## Tärkeää
@@ -55,6 +56,12 @@ Tapahtuma on suunnattu vain tekniikan alan opsikelijoita vastaanottavien kiltoje
 
 Osallistumalla sitseille voit saada pisteen pisteet/teekkarikulttuuri - Sitsit pisteen!
 {: .teekkarikulttuuri}
+
+### 2. Cännärit
+Cännärien suunnittelu on nyt aloitettu! Jos et ole vielä mukana suunnittelemassa TiK-fuksien ikimuistoisia bileitä, niin laita viestiä @kurkoasd, niin pääset mukaan!
+
+Osallistumalla Cännärien järjestämiseen saat pisteen pisteet/teekkarikulttuuri/työ
+{: .tyo}
 
 ## Pohjanurkkaus
 Toivottavasti koodailut on lähtenyt	 hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
