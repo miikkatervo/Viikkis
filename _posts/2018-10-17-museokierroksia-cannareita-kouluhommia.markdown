@@ -7,7 +7,7 @@ categories: fuksit
 
 Heissuli vei! Cännärit on nyt polkaistu käyntiin. Mahtavaa, että todella moni teistä pääsi paikalle! Jos et kuitenkaan eilen ehtinyt infoon, niin lähde ilman muuta mukaan! Kaikille riittää varmasti töitä tik-fuksien hienoimpien bileiden kanssa! 
 
-Kuten huomaatte viikkoviesti tuleekin nyt näin keskellä viikkoa. Pahoittelen siitä. Toivottavasti kaikilla oli hauska Dipolin appro, muita tapahtumia ei tällä viikolla paljoa ole. Ensi viikolla kuitenkin alkaa museokierrokset! Toivottavasti olette kaikki muistaneet ilmoittautua kierroksille!
+Kuten huomaatte viikkoviesti tuleekin nyt näin keskellä viikkoa. Pahoittelen siitä. Toivottavasti kaikilla oli hauska Dipolin appro, muita tapahtumia tällä viikolla löytyy torstaina marttasaunaillan merkeissä. Ensi viikolla alkaa museokierrokset! Toivottavasti olette kaikki muistaneet ilmoittautua kierroksille!
 
 ## Sisällysluettelo
 1.	[Tärkeää](#tärkeää)
@@ -57,6 +57,6 @@ Osallistumalla sitseille voit saada pisteen pisteet/teekkarikulttuuri - Sitsit p
 {: .teekkarikulttuuri}
 
 ## Pohjanurkkaus
-Toivottavasti koodailut on lähtenyt hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
+Toivottavasti koodailut on lähtenyt	 hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
 
 ![image](/kapteeninviikkomaili/assets/201806/developing.jpg){:height="10px" width="60%"}
