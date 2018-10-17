@@ -9,8 +9,6 @@ Heissuli vei! Cännärit on nyt polkaistu käyntiin. Mahtavaa, että todella mon
 
 Kuten huomaatte viikkoviesti tuleekin nyt näin keskellä viikkoa. Pahoittelen siitä. Toivottavasti kaikilla oli hauska Dipolin appro, muita tapahtumia ei tällä viikolla paljoa ole. Ensi viikolla kuitenkin alkaa museokierrokset! Toivottavasti olette kaikki muistaneet ilmoittautua kierroksille!
 
-Fuksien juhlasitsien jonotuspäivä on nyt kerrottu. Sinne on yleensä menty jonottamaan aikaisempana iltana, jotta saa lipun. Eli suosittelen, että teette saman. Omana vuotenani tämä jonotus oli lähes puolet koko tapahtumasta. Teltat ja makuupussit mukaan vaan, niin sillä tarkenee
-
 ## Sisällysluettelo
 1.	[Tärkeää](#tärkeää)
 	1. Museokierrokset
