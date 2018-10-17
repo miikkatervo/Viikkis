@@ -42,7 +42,7 @@ Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotus
 ### 1. Fuksien juhlasitsit 6.11
 Vuoden tyylikkäin pöytäjuhla järjestetään Teekkariperinneviikon tiistaina 6.11. Servin Mökissä. Juhlat alkavat cocktail-tilaisuudella Polyteekkarimuseolla klo 17:30, josta siirrytään Servin Mökkiin pöytäjuhlaan. Gongi kumahtaa kello 18:30. Sitsit on tarkoitettu ainoastaan tekniikan alan opiskelijoita vastaanottavien yhdistysten fukseille ja moni vanhempi tieteenharjoittaja muisteleekin kaiholla sitsien suussa sulavaa ruokaa ja inspiroivaa ohjelmaa. Lippuja myydään vain ja ainoastaan maanantaina 29.10. klo 8:00 ja liput tulevat olemaan tänäkin vuonna äärimmäisen haluttuja.
 
-Fuksien juhlasitseille myydään lippuja maanantaina 29.10. klo 08:00 alkaenKandidaattikeskuksen aulassa. Jokainen jonottaja voi ostaa vain yhden (1) lipun. Mikäli ei itse pääse osallistumaan jonotukseen, tulee paikalle hoitaa sijaisjonottaja. Ilmoittautumisessa kysytään normaalit sitsi-ilmoittautumisen tiedot sekä yksi (1) pöytäseuralainen. 
+Fuksien juhlasitseille myydään lippuja maanantaina 29.10. klo 08:00 alkaen Kandidaattikeskuksen aulassa. Jokainen jonottaja voi ostaa vain yhden (1) lipun. Mikäli ei itse pääse osallistumaan jonotukseen, tulee paikalle hoitaa sijaisjonottaja. Ilmoittautumisessa kysytään normaalit sitsi-ilmoittautumisen tiedot sekä yksi (1) pöytäseuralainen. 
 Sitsimaksu 30e suoritetaan ilmoittautumisen ohessa käteisellä.
 
 Lippujen jonotusta varten tulee muodostaa jono siten, että sen pää suuntautuu Alvarin aukion puoleiselle ovelle (Z-ovi). Mikäli jonotus aloitetaan ennen kanditalon ovien avaamista, tulee jono muodostaa Alvarin aukion puoleisten ovien eteen. Paikkoja jonossa ei voi varata muille, vaan jokainen jonottaa yhtä lippua. Mikäli jonotuksessa havaitaan ohittelua tai muuta vilunkipeliä, kyseiset henkilöt poistetaan jonosta.
@@ -57,6 +57,6 @@ Osallistumalla sitseille voit saada pisteen pisteet/teekkarikulttuuri - Sitsit p
 {: .teekkarikulttuuri}
 
 ## Pohjanurkkaus
-Toivottavasti koodailut on lähteny hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
+Toivottavasti koodailut on lähtenyt hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
 
 ![image](/kapteeninviikkomaili/assets/201806/developing.jpg){:height="10px" width="60%"}
