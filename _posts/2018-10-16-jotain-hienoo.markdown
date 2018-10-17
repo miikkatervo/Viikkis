@@ -51,13 +51,14 @@ Lippujen jonotusta varten tulee muodostaa jono siten, että sen pää suuntautuu
 
 Tapahtuma on suunnattu vain tekniikan alan opsikelijoita vastaanottavien kiltojen fukseille. Lisätietoja tapahtumasta voi kysyä fuksikapteeneilta, sekä fuksimajurilta.
 
-Dresscode: Tumma puku / Cocktail-mekko
-Liput 30€
-Lipunmyynti 29.10. klo 8:00 Kandidaattikeskuksen aulassa
+* Dresscode: Tumma puku / Cocktail-mekko
+* Liput 30€
+* Lipunmyynti 29.10. klo 8:00 Kandidaattikeskuksen aulassa
 
 Osallistumalla sitseille voit saada pisteen pisteet/teekkarikulttuuri - Sitsit pisteen!
 {: .teekkarikulttuuri}
 
 ## Pohjanurkkaus
 Toivottavasti koodailut on lähteny hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
-[!developing](../assets/201806/developing.jpg)
+
+![image](/kapteeninviikkomaili/assets/201806/developing.jpg){:height="10px" width="60%"}
