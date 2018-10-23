@@ -43,7 +43,6 @@ Ilmoittaudu ohjatulle kierrokselle Polyteekkarimuseoon. Käymällä ohjatun kier
 
 Alla olevissa linkeissä on kirjoittamishetkellä vielä tilaa
 * <https://tietokilta.fi/tapahtumat/ilmot/museokierros20187>
-* <https://tietokilta.fi/tapahtumat/ilmot/museokierros20188>
 
 Kannattaa ehdottomasti käydä museossa näin syksyllä, sillä museo lähtee remontin alta pois vuoden vaihteessa, eikä väistötilan olemassaolo ole varmaa.
 
