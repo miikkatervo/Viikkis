@@ -6,9 +6,9 @@ categories: fuksit
 ---
 
 
-Vaalikausi lähestyy! Powerkähmyt ovat iso mahdollisuus tutustua killan toimintaan. Eli kannattaa ehdottomasti tulla mukaan, jos vaikka innostuisikin hakemaan johonkin. Tässä erikoisen nimen omaavassa tapahtumassa pääset nimen omaan tutustumaan killan vapaaehtoismahdollisuuksiin.
+Vaalikausi lähestyy! Powerkähmyt ovat iso mahdollisuus tutustua killan toimintaan. Eli kannattaa ehdottomasti tulla mukaan, jos vaikka innostuisikin hakemaan johonkin. Tässä erikoisen nimen omaavassa tapahtumassa pääset nimenomaan tutustumaan killan vapaaehtoismahdollisuuksiin.
 
-Toivottavasti ensimmäinen tenttiviikko on alkanut mukavasti. Mukana tuleekin vähän lepoa koulustakin kurssien olevan tauolla.
+Toivottavasti ensimmäinen tenttiviikko on alkanut mukavasti. Mukana tuleekin vähän lepoa koulustakin kurssien ollessa tauolla.
 
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
@@ -32,7 +32,10 @@ Mutta mitkä ihmeen Powerkähmyt? Powerkähmyillä pääset kuulemaan killan tar
 
 Kähmyjen esittelyosuuden jälkeen siirrymme jatkamaan iltaa Arkkitehtikillan majalle Sipooseen, jossa tarjolla on pienimuotoiset sitsit, sauna ja vapaamuotoista hengailua. Majalla yöpymisen jälkeen sunnuntaina tarjolla on aamupalaa, jonka jälkeen palaamme Otaniemeen.
 
-Lähtemällä killantoimijaksi saat pisteen pisteet/kilta - Killan toimija!
+Alla olevasta linkistä voit ilmoittautua Powerkähmyjen jatkoille
+<http://www.tietokilta.fi/tapahtumat/1311>
+
+Lähtemällä killan toimijaksi saat pisteen pisteet/kilta - Killan toimija!
 {: .kilta}
 
 ### 2. Museokierrokset
