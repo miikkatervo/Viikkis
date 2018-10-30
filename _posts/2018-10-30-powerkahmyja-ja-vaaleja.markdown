@@ -5,7 +5,7 @@ date:   2018-10-30
 categories: fuksit
 ---
 
-Moikkelis moi! Toinen periodi on nyt polkaistu käyntiin. Marraskuu tuo mukanaan muitakin asioita, kuten teekkariperinneviikko ja vaalit. Fuksicruisekin lähestyy hyvää vauhtia.
+Moikkelis moi! Toinen periodi on nyt polkaistu käyntiin. Marraskuu tuo mukanaan muitakin asioita, kuten teekkariperinneviikon ja vaalit. Fuksicruisekin lähestyy hyvää vauhtia.
 
 Powerkähmyt on kaksi osainen tapahtuma. Päiväohjelmaan voi vapaasti tulla ilman ilmoittautumista, ja iltaohjelmaan ilmon kautta. Suosittelen vahvasti, että mahdollisimman moni tulisi ainakin päiväohjelmaan mukaan.
 
@@ -24,7 +24,8 @@ Powerkähmyt on kaksi osainen tapahtuma. Päiväohjelmaan voi vapaasti tulla ilm
 
 ### 1. Powerkähmyjen päiväohjelma 3.11.
 
- Powerkähmyillä pääset kuulemaan killan tarjoamista vapaaehtoismahdollisuuksista toimihenkilönä tai killan hallituksessa. 
+ Powerkähmyillä pääset kuulemaan killan tarjoamista vapaaehtoismahdollisuuksista toimihenkilönä tai killan hallituksessa.
+
  Powerkähmyt alkavat T-talolla järjestettävällä hallituksen ja toimikuntien esittelyllä, joka koostuu pienimuotoisesta rastikiertelystä sekä vapaammasta keskustelusta tämän vuoden toimijoiden kanssa. Jos haluat osallistua Tietokillan vuoden 2019 rakentamiseen, saavu paikalle tutustumaan toimikuntiin ja hallitusrooleihin! Voit tulla paikalle tutustumaan toimintaan tiesit sitten mitä haluaisit tehdä tai et!
 
 Lähtemällä killan toimijaksi saat pisteen pisteet/kilta - Killan toimija!
@@ -43,7 +44,7 @@ Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotus
 ## Fuksi- ja kilta-asiat
 
 ### 1. Cännärit
-Cännärien suunnittelu on nyt aloitettu! Jos et ole vielä mukana suunnittelemassa TiK-fuksien ikimuistoisia bileitä, niin laita viestiä @kurkoasd, niin pääset mukaan!
+Cännärien suunnittelu on jo hyvässä vaudissa! Jos et ole vielä mukana suunnittelemassa TiK-fuksien ikimuistoisia bileitä, niin laita viestiä @kurkoasd, niin pääset mukaan!
 
 Osallistumalla Cännärien järjestämiseen saat pisteen pisteet/teekkarikulttuuri/työ
 {: .tyo}
@@ -60,5 +61,6 @@ Osallistumalla museokierrokseen saat pakollisen pisteen pisteet/master - Polytee
 {: .master}
 
 ## Pohjanurkkaus
-Ensilumien ja ohimenneen tenttiviikon kunniaksi tässä teille saukko
-![image](/kapteeninviikkomaili/assets/201808/saukko.gif){:height="10px" width="60%"}
+Ensimmäisten lumien ja ohimenneen tenttiviikon kunniaksi tässä teille saukko
+
+![image](/kapteeninviikkomaili/assets/201808/saukko.gif){:height="10px" width="75%"}
