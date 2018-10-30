@@ -7,9 +7,7 @@ categories: fuksit
 
 Heissuli vei! Cännärit on nyt polkaistu käyntiin. Mahtavaa, että todella moni teistä pääsi paikalle! Jos et kuitenkaan eilen ehtinyt infoon, niin lähde ilman muuta mukaan! Kaikille riittää varmasti töitä tik-fuksien hienoimpien bileiden kanssa! 
 
-Kuten huomaatte viikkoviesti tuleekin nyt näin keskellä viikkoa. Pahoittelen siitä. Toivottavasti kaikilla oli hauska Dipolin appro, muita tapahtumia ei tällä viikolla paljoa ole. Ensi viikolla kuitenkin alkaa museokierrokset! Toivottavasti olette kaikki muistaneet ilmoittautua kierroksille!
-
-Fuksien juhlasitsien jonotuspäivä on nyt kerrottu. Sinne on yleensä menty jonottamaan aikaisempana iltana, jotta saa lipun. Eli suosittelen, että teette saman. Omana vuotenani tämä jonotus oli lähes puolet koko tapahtumasta. Teltat ja makuupussit mukaan vaan, niin sillä tarkenee
+Kuten huomaatte viikkoviesti tuleekin nyt näin keskellä viikkoa. Pahoittelen siitä. Toivottavasti kaikilla oli hauska Dipolin appro, muita tapahtumia tällä viikolla löytyy torstaina marttasaunaillan merkeissä. Ensi viikolla alkaa museokierrokset! Toivottavasti olette kaikki muistaneet ilmoittautua kierroksille!
 
 ## Sisällysluettelo
 1.	[Tärkeää](#tärkeää)
@@ -17,6 +15,7 @@ Fuksien juhlasitsien jonotuspäivä on nyt kerrottu. Sinne on yleensä menty jon
 	2. Liity tiedotuskanaville
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Fuksien juhlasitsit 6.11.
+	2. Cännärit
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
 ## Tärkeää
@@ -44,7 +43,7 @@ Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotus
 ### 1. Fuksien juhlasitsit 6.11
 Vuoden tyylikkäin pöytäjuhla järjestetään Teekkariperinneviikon tiistaina 6.11. Servin Mökissä. Juhlat alkavat cocktail-tilaisuudella Polyteekkarimuseolla klo 17:30, josta siirrytään Servin Mökkiin pöytäjuhlaan. Gongi kumahtaa kello 18:30. Sitsit on tarkoitettu ainoastaan tekniikan alan opiskelijoita vastaanottavien yhdistysten fukseille ja moni vanhempi tieteenharjoittaja muisteleekin kaiholla sitsien suussa sulavaa ruokaa ja inspiroivaa ohjelmaa. Lippuja myydään vain ja ainoastaan maanantaina 29.10. klo 8:00 ja liput tulevat olemaan tänäkin vuonna äärimmäisen haluttuja.
 
-Fuksien juhlasitseille myydään lippuja maanantaina 29.10. klo 08:00 alkaenKandidaattikeskuksen aulassa. Jokainen jonottaja voi ostaa vain yhden (1) lipun. Mikäli ei itse pääse osallistumaan jonotukseen, tulee paikalle hoitaa sijaisjonottaja. Ilmoittautumisessa kysytään normaalit sitsi-ilmoittautumisen tiedot sekä yksi (1) pöytäseuralainen. 
+Fuksien juhlasitseille myydään lippuja maanantaina 29.10. klo 08:00 alkaen Kandidaattikeskuksen aulassa. Jokainen jonottaja voi ostaa vain yhden (1) lipun. Mikäli ei itse pääse osallistumaan jonotukseen, tulee paikalle hoitaa sijaisjonottaja. Ilmoittautumisessa kysytään normaalit sitsi-ilmoittautumisen tiedot sekä yksi (1) pöytäseuralainen. 
 Sitsimaksu 30e suoritetaan ilmoittautumisen ohessa käteisellä.
 
 Lippujen jonotusta varten tulee muodostaa jono siten, että sen pää suuntautuu Alvarin aukion puoleiselle ovelle (Z-ovi). Mikäli jonotus aloitetaan ennen kanditalon ovien avaamista, tulee jono muodostaa Alvarin aukion puoleisten ovien eteen. Paikkoja jonossa ei voi varata muille, vaan jokainen jonottaa yhtä lippua. Mikäli jonotuksessa havaitaan ohittelua tai muuta vilunkipeliä, kyseiset henkilöt poistetaan jonosta.
@@ -58,7 +57,13 @@ Tapahtuma on suunnattu vain tekniikan alan opsikelijoita vastaanottavien kiltoje
 Osallistumalla sitseille voit saada pisteen pisteet/teekkarikulttuuri - Sitsit pisteen!
 {: .teekkarikulttuuri}
 
+### 2. Cännärit
+Cännärien suunnittelu on nyt aloitettu! Jos et ole vielä mukana suunnittelemassa TiK-fuksien ikimuistoisia bileitä, niin laita viestiä @kurkoasd, niin pääset mukaan!
+
+Osallistumalla Cännärien järjestämiseen saat pisteen pisteet/teekkarikulttuuri/työ
+{: .tyo}
+
 ## Pohjanurkkaus
-Toivottavasti koodailut on lähteny hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
+Toivottavasti koodailut on lähtenyt	 hyvin käyntiin. Tässä kuitenkin pieni kevennys O1-kierroksien keskelle.
 
 ![image](/kapteeninviikkomaili/assets/201806/developing.jpg){:height="10px" width="60%"}
