@@ -17,7 +17,7 @@ Powerkähmyt on kaksi osainen tapahtuma. Päiväohjelmaan voi vapaasti tulla ilm
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Museokierrokset
 	2. Cännärit
-	3. Fuksicruise
+3. [Pohjanurkkaus](#pohjanurkkaus)
 
 
 ## Tärkeää
@@ -58,3 +58,7 @@ Kannattaa ehdottomasti käydä museossa näin syksyllä, sillä museo lähtee re
 
 Osallistumalla museokierrokseen saat pakollisen pisteen pisteet/master - Polyteekkarimuseo
 {: .master}
+
+## Pohjanurkkaus
+Ensilumien ja ohimenneen tenttiviikon kunniaksi tässä teille saukko
+![image](/kapteeninviikkomaili/assets/201808/saukko.gif){:height="10px" width="60%"}
