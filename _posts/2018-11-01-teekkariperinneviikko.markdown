@@ -10,7 +10,7 @@ Tärkeimpiä asioita tässä vaiheessa on viimeisten museokierrosten suorittamin
 
 En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käynyt museolla, niin laita minulle viestiä. 
 
-Vaaleihin saa osallistua kuka tahansa killan jäsen, ja ainoa virka mihin sinä Fuksi et voi hakea on fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallitusvirkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
+Vaaleihin saa osallistua kuka tahansa killan jäsen, ja ainoat virat mihin sinä Fuksi et voi hakea ovat fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallitusvirkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
 
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
