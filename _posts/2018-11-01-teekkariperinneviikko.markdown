@@ -6,7 +6,9 @@ categories: fuksit
 ---
 
 Hejsan sinne ja hyvää teekkariperinneviikkoa! Pahoittelen suuresti myöhään tulevaa viikkomailia, tässä on ollut lievää flunssaa ilmassa.
-Tärkeimpiä asioita tässä vaiheessa on viimeisten museokierrosten suorittaminen ja killan vaalit. En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käynyt museolla, niin laita minulle viestiä. Vaaleihin saa osallistua kuka vain killan jäsen, ja ainoa virka mihin sinä Fuksi et voi hakea on fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallituksen virkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
+Tärkeimpiä asioita tässä vaiheessa on viimeisten museokierrosten suorittaminen ja killan vaalit. 
+
+En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käynyt museolla, niin laita minulle viestiä. Vaaleihin saa osallistua kuka vain killan jäsen, ja ainoa virka mihin sinä Fuksi et voi hakea on fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallituksen virkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
 
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
