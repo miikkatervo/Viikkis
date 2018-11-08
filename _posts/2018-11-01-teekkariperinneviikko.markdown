@@ -8,7 +8,9 @@ categories: fuksit
 Hejsan sinne ja hyvää teekkariperinneviikkoa! Pahoittelen suuresti myöhään tulevaa viikkomailia, tässä on ollut lievää flunssaa ilmassa.
 Tärkeimpiä asioita tässä vaiheessa on viimeisten museokierrosten suorittaminen ja killan vaalit. 
 
-En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käynyt museolla, niin laita minulle viestiä. Vaaleihin saa osallistua kuka vain killan jäsen, ja ainoa virka mihin sinä Fuksi et voi hakea on fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallituksen virkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
+En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käynyt museolla, niin laita minulle viestiä. 
+
+Vaaleihin saa osallistua kuka tahansa killan jäsen, ja ainoa virka mihin sinä Fuksi et voi hakea on fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallitusvirkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
 
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
@@ -32,7 +34,8 @@ Osallistumalla Cännärien järjestämiseen saat pisteen pisteet/teekkarikulttuu
 ### 2. Vaalit
 Tietokillan vaalikausi on nyt avattu. Vaalifoorumi Discourse löytyy osoitteesta <https://vaalit.tietokilta.fi>
 
-Virkoihin ehdolle asettuminen tapahtuu juuri kyseisellä foorumilla. Sieltä löytyy myös esittelyt haettavista viroista
+Virkoihin ehdolle asettuminen tapahtuu juuri kyseisellä foorumilla. Sieltä löytyy myös esittelyt haettavista viroista.
+Lisätietoa kaikista viroista löytyy myös osoitteesta <https://tietokilta.fi/kilta/vaalit>
 
 Lähtemällä killan toimijaksi saat pisteen pisteet/kilta - Killan toimija!
 {: .kilta
