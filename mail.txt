@@ -1,49 +1,37 @@
 
-Moikkelis moi! Toinen periodi on nyt polkaistu käyntiin. Marraskuu tuo mukanaan muitakin asioita, kuten teekkariperinneviikon ja vaalit. Fuksicruisekin lähestyy hyvää vauhtia.
+Hejsan sinne ja hyvää teekkariperinneviikkoa! Pahoittelen suuresti myöhään tulevaa viikkomailia, tässä on ollut lievää flunssaa ilmassa.
+Tärkeimpiä asioita tässä vaiheessa on viimeisten museokierrosten suorittaminen ja killan vaalit. 
 
-Powerkähmyt on kaksi osainen tapahtuma. Päiväohjelmaan voi vapaasti tulla ilman ilmoittautumista, ja iltaohjelmaan ilmon kautta. Suosittelen vahvasti, että mahdollisimman moni tulisi ainakin päiväohjelmaan mukaan.
+En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käynyt museolla, niin laita minulle viestiä. Vaaleihin saa osallistua kuka vain killan jäsen, ja ainoa virka mihin sinä Fuksi et voi hakea on fuksikapteeni ja datakapteeni. Eli toimihenkilövirkoja ja hallituksen virkoja on lukuisia, mistä valita. Lähtekää siis mahdollisimman moni kehittämään kiltaa eteenpäin.
 
 Sisällysluettelo
 1. Tärkeää
-	1. Powerkähmyjen päiväohjelma
-	2. Powerkähmyjen iltaohjelma
-	3. Liity tiedotuskanaville
+	1. Cännärit
+	2. Vaalit
+	3. Museokierrokset
 2. Fuksi- ja kilta-asiat
-	1. Museokierrokset
-	2. Cännärit
-3. Pohjanurkkaus
+	1. Marttasitsit 16.11.
+	2. TiKLAN 9.11.
+	3. Töihin AS:n vuosijuhlaan Stimulaatioon
 
 
 Tärkeää
 
-1. Powerkähmyjen päiväohjelma 3.11.
-
- Powerkähmyillä pääset kuulemaan killan tarjoamista vapaaehtoismahdollisuuksista toimihenkilönä tai killan hallituksessa.
-
- Powerkähmyt alkavat T-talolla järjestettävällä hallituksen ja toimikuntien esittelyllä, joka koostuu pienimuotoisesta rastikiertelystä sekä vapaammasta keskustelusta tämän vuoden toimijoiden kanssa. Jos haluat osallistua Tietokillan vuoden 2019 rakentamiseen, saavu paikalle tutustumaan toimikuntiin ja hallitusrooleihin! Voit tulla paikalle tutustumaan toimintaan tiesit sitten mitä haluaisit tehdä tai et!
-
-Lähtemällä killan toimijaksi saat pisteen pisteet/kilta - Killan toimija!
-
-
-2. Powerkähmyjen iltaohjelma 3.11
-Kähmyjen esittelyosuuden jälkeen siirrymme jatkamaan iltaa Arkkitehtikillan majalle Sipooseen, jossa tarjolla on pienimuotoiset sitsit, sauna ja vapaamuotoista hengailua. Majalla yöpymisen jälkeen sunnuntaina tarjolla on aamupalaa, jonka jälkeen palaamme Otaniemeen.
-
-Alla olevasta linkistä voit ilmoittautua Powerkähmyjen jatkoille
-<http://www.tietokilta.fi/tapahtumat/1311>
-
-
-3. Liity tiedotuskanaville
-Saat tärkeät tiedotteet jatkossa varmemmin, kun liityt fuksien omalle tiedotuskanavalle <https://t.me/tikfuksitiedotus18> (Telegramissa @tikfuksitiedotus18). Lisäksi liity koko killan yhteiselle tiedotuskanavalle <https://t.me/tiktiedotus> (Telegramissa @tiktiedotus)
-
-Fuksi- ja kilta-asiat
-
 1. Cännärit
 Cännärien suunnittelu on jo hyvässä vaudissa! Jos et ole vielä mukana suunnittelemassa TiK-fuksien ikimuistoisia bileitä, niin laita viestiä @kurkoasd, niin pääset mukaan!
 
-Osallistumalla Cännärien järjestämiseen saat pisteen pisteet/teekkarikulttuuri/työ
+Osallistumalla Cännärien järjestämiseen saat pisteen pisteet/teekkarikulttuuri/työ - Cännärit!
 
 
-2. Museokierrokset
+2. Vaalit
+Tietokillan vaalikausi on nyt avattu. Vaalifoorumi Discourse löytyy osoitteesta <https://vaalit.tietokilta.fi>
+
+Virkoihin ehdolle asettuminen tapahtuu juuri kyseisellä foorumilla. Sieltä löytyy myös esittelyt haettavista viroista
+
+Lähtemällä killan toimijaksi saat pisteen pisteet/kilta - Killan toimija!
+{: .kilta
+
+3. Museokierrokset
 Ilmoittaudu ohjatulle kierrokselle Polyteekkarimuseoon. Käymällä ohjatun kierroksen läpi opit teekkareiden historiasta tärkeimmät palat ja olet oikeutettu kierroksen jälkeen Polyteekkarimuseo-fuksipisteeseen.
 
 Alla olevassa kierroksessa on kirjoittamishetkellä vielä tilaa
@@ -54,7 +42,31 @@ Kannattaa ehdottomasti käydä museossa näin syksyllä, sillä museo lähtee re
 Osallistumalla museokierrokseen saat pakollisen pisteen pisteet/master - Polyteekkarimuseo
 
 
-Pohjanurkkaus
-Ensimmäisten lumien ja ohimenneen tenttiviikon kunniaksi tässä teille saukko
+Fuksi- ja kilta-asiat
 
-![image](/kapteeninviikkomaili/assets/201808/saukko.gif){:height="10px" width="75%"}
+1. Marttasitsit 16.11.
+Tervetuloa nauttimaan hyvää ruokaa hyvässä seurassa tunnelmallisilla sitseillä 16.11. !
+
+Marttasitseillä pääset nauttimaan Marttojen kokkauksista ja kodikkaasta tunnelmasta. Illassa keskitytään makuihin ja mukavuuteen, sekä tietenkin seurusteluun. Useimmista sitseistä poiketen marttasitseillä tarjoillaan alkoholia vain pääruoan ohessa, joskin sitseistä voi nauttia myös täysin alkoholittomasti. Tunnelmaan sopivasti pukeudutaan smart casualiin, eli tyylikkäästi mutta mukavasti. Sitsit alkavat cocktailtilaisuudella klo 18.00, josta pöytiin siirrytään klo 18.30. Illallispaikkana toimii Otarannan kerhotila, Otaranta 8 B.
+
+Ilmoittautuminen on tässä <http://www.tietokilta.fi/tapahtumat/1296>
+
+Osallistumalla marttasitseille saat pisteen pisteet/teekkarikulttuuri - Sitsit!
+
+
+
+2. TikLAN 9.11.
+
+Ensilumet ovat laskeutuneet ja ulkona alkaa kaamos koittamaan. Mikä olisikaan silloin parempaa, kuin vetäytyä OK20 sisään viikonlopuksi LAN:ien merkeissä.
+
+Perinteiset syksyn TiKLAN:it järjestetään tänä vuonna OK20 tiloissa 9.11.-11.11. ja tilaa on roimasti. Tänä vuonna koko OK20 yläkerta, isompi puoli ja sauna on varattu LAN:ittajille! Paikalla on tilaa pelata VR pelejä, konsolipelejä, lautapelejä sekä tietysti tärkeimpänä päästä pelamaan kavereiden kanssa niin vanhoja klassikoja, kuin uusimpia hittejä.
+
+Yläkerta on varattu omille pöytäkoneille, ja tilaa on noin 50 ihmiselle. Tarpeen tullen paikkoja voi myös siirtää alakertaan jos ilmoittautujia on suurempi määrä. Alakertaan tulee HTC Vive VR-laitteet, konsoleita sekä yleistä hengailutilaa. Tietokilta myös järjestää aamupalatarjoilua aamuille, jotta yön pikkutunneilta jaksaa jatkaa pelaamista.
+
+Tule sinäkin siis mukaan 9.11. -11.11. pelailemaan. Ilmottautuminen on tarkoitettu konepaikkoja varten, mutta tapahtuma on avoin kaikille. Pöytäpaikan voi myös varata vaikka ei pääsisi koko viikonlopuksi paikalle.
+
+Ilmoittautuminen on tässä <http://www.tietokilta.fi/tapahtumat/1302>
+
+Osallistumalla laneihin saat pisteen pisteet/vapaa - Lanit/Hackathon!
+
+

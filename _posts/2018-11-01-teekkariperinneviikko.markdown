@@ -18,6 +18,7 @@ En ole tässä vaiheessa varannut uusia kierroksia, mutta jos et ole vielä käy
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Marttasitsit 16.11.
 	2. TiKLAN 9.11.
+	3. Töihin AS:n vuosijuhlaan Stimulaatioon
 
 
 ## Tärkeää
@@ -75,3 +76,8 @@ Ilmoittautuminen on tässä <http://www.tietokilta.fi/tapahtumat/1302>
 Osallistumalla laneihin saat pisteen pisteet/vapaa - Lanit/Hackathon!
 {: .vapaa}
 
+### 3. Töihin AS:n vuosijuhlaan Stimulaatioon
+Stimulaation eli Automaatio- ja systeemitekniikan killan vuosijuhlien työvoimailmoittautuminen on auki ja tekijöitä tarvitaan! ✨ Tänä vuonna kilta täyttää 20v ja juhlat ovat suuremmat kuin koskaan. Järkkäysporukalla on aina ihan mahtava meininki ja lisäks työstä saa kokemuksen lisäksi talkoopisteitä sekä pääsee osallistumaan työntekijöiden virkistykseen juhlan jälkeen :) Jos herää kysymyksiä tai esimerkiksi aikataulut sopii vain osittain niin laittakaa rohkeesti viestiä Nooralle, @norsu! 😊 Ilmo löytyy osoitteesta <http://as.ayy.fi/ilmo/stimulaatioxx>
+
+Menemällä töihin Stimulaatioon saat pisteen pisteet/teekkarikulttuuri/työ - Työpiste!
+{: .tyo}
