@@ -23,7 +23,7 @@ Vaaleihin saa osallistua kuka tahansa killan jäsen. Toimihenkilövirkoja ja hal
 
 ### 1. Cännärit 21.11. @ Baarikärpänen
 
-Olympiatuli saapuu Baarikärpäseen kansan hurratessa! Tämän vuoden Cännäreiden teema on olympialaiset! Pystytkö cännäämään paremmin TiKin fuksi?
+Olympiatuli saapuu Baarikärpäseen kansan hurratessa! Tämän vuoden Cännäreiden teema on olympialaiset! Pystytkö cännäämään paremmin kuin TiKin fuksi?
 
 Lisätietoa <http://cannarit.tietokilta.fi>
 
