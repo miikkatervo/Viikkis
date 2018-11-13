@@ -38,7 +38,7 @@ Virkoihin ehdolle asettuminen tapahtuu juuri kyseisellä foorumilla. Sieltä lö
 Lisätietoa kaikista viroista löytyy myös osoitteesta <https://tietokilta.fi/kilta/vaalit>
 
 Lähtemällä killan toimijaksi saat pisteen pisteet/kilta - Killan toimija!
-{: .kilta
+{: .kilta}
 
 ### 3. Museokierrokset
 Ilmoittaudu ohjatulle kierrokselle Polyteekkarimuseoon. Käymällä ohjatun kierroksen läpi opit teekkareiden historiasta tärkeimmät palat ja olet oikeutettu kierroksen jälkeen Polyteekkarimuseo-fuksipisteeseen.
