@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Kapteenin viikkomaili 11/2018 - Omstart! Vaaliviikko on täällä!"
+title:  "Kapteenin viikkomaili 11/2018 - Vaaliviikko on täällä!"
 date:   2018-11-13
 categories: fuksit
 ---
 
-Heippa kaikki! Vaaliviikko on täällä! Tulkaa siis kaikki tiistaina vaalikokoukseen äänestämään parhaimmat hakijat rakentamaan uutta vuotta killalle. Cännäritkin ovat täällä. Eli keskiviikkona nähdään Baarikärpäsessä!
+Heipparallaa! Vaaliviikko on täällä! Tulkaa siis kaikki tiistaina vaalikokoukseen äänestämään parhaimmat hakijat rakentamaan uutta vuotta killalle. Cännäritkin ovat täällä. Eli keskiviikkona nähdään Baarikärpäsessä!
 
 Cännärien jälkeen pääsettekin aloittamaan seuraavan projektinne. Nimittäin perinteisen fuksien speksin, joka esitetään TiKkujouluissa. Tulkaa siis paikalle selvittämään lisää, miten speksi luodaan. Info on ensi viikon tiistaina.
 
