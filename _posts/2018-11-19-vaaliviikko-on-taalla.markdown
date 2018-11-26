@@ -38,7 +38,7 @@ Osallistumalla Cännäreihin saat pisteen pisteet/kilta - Cännärit!
 {: .kilta}
 
 ### 2. Speksi-info ti 27.11. @ T-Talo
-Joillekkin saattaa muistua speksi kiltakasteessa. Nyt on teidän vuoronne tehdä oma speksi killan TiKkujouluihin. TiKkujouluissa on perintesesti nähty hallituksen tekemä speksi, niin kuin myös fuksien oma speksi. Tulkaa siis torstaina paikalle kuuntelemaan speksin tekemistä. Jokaiselle löytyy varmasti tehtävää.
+Joillekkin saattaa muistua speksi kiltakasteessa. Nyt on teidän vuoronne tehdä oma speksi killan TiKkujouluihin. TiKkujouluissa on perintesesti nähty hallituksen tekemä speksi, niin kuin myös fuksien oma speksi. Tulkaa siis tiistaina paikalle kuuntelemaan speksin tekemistä. Jokaiselle löytyy varmasti tehtävää.
 
 Stressiä ei kannata speksistä ottaa. Tärkeitä on yhdessä tekeminen ja hauskanpito.
 
