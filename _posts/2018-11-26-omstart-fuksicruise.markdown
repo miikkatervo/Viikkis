@@ -65,5 +65,5 @@ On jälleen se aika vuodesta, kun saadaan juhlistaa joulun tuloa TiKkujoulujen m
 ## Pohjanurkkaus
 Fuksien juhlasitseillä näytettiin FTMK:n teitä varten tehty esittely video. Jos siis et ollut paikalla, niin sen voi katsoa tästä.
 <div class="resp-container">
-<iframe class="resp-iframe" src="https://drive.google.com/file/d/1PlBr2PgV-c6RfbZuFsRdAqCwhWmtylSm/preview" gesture="media"></iframe>
+<iframe class="resp-iframe" src="https://drive.google.com/file/d/1PlBr2PgV-c6RfbZuFsRdAqCwhWmtylSm/preview" allowfullscreen></iframe>
 </div>
