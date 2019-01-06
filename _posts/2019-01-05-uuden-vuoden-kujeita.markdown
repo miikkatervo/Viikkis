@@ -5,7 +5,7 @@ date:   2019-01-05
 categories: fuksit
 ---
 
-Hyvää alkanutta vuotta! Toivottavasti loma oli rentouttava, sillä uusi lukuvuosi on nyt alkamassa. Keväällä onkin edessä paljon tekemistä. Tärkeitä päivämääriä löydätkin tästä kyseisestä viikkoblogista.
+Hyvää alkanutta vuotta! Toivottavasti loma oli rentouttava, sillä uusi lukuvuosi on nyt alkamassa. Keväällä onkin edessä paljon tekemistä, joista tärkeimmät ajankohdat löydätkin tästä kyseisestä blogista.
 
 
 ## Sisällysluettelo
