@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kapteenin viikkomaili 1/2019 -  Uuden vuoden kujeita"
-date:   2019-01-05
+date:   2019-01-06
 categories: fuksit
 ---
 
