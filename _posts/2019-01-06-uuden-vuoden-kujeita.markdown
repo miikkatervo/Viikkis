@@ -39,7 +39,7 @@ Kevään alkaessa on hyvä pistää käyntiin kapteenin wartit. Eli rennosti jut
 Wartit pidetään T-talolla, ja ajan voi varata [tästä](https://docs.google.com/spreadsheets/d/1ap_SmvJQtSOqYn1-z0hCp-hl61Etyi6o7hL3U0MnYe4/edit?usp=sharing) sheetistä.
 
 
-Käymällä kapteenin wartissa saat pisteen pisteet/master - Kapteenin Wartti!
+Käymällä kapteenin wartissa saat pakollisen pisteen pisteet/master - Kapteenin Wartti!
 {: .master}
 
 ## Fuksi- ja kilta-asiat
