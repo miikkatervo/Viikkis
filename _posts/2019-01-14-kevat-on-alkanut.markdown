@@ -14,33 +14,19 @@ Muistutuksena vielä, että kapteenin wartteja voi nyt varata. Piste on pakollin
 
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
-	1. Tärkeitä päivämääriä
-	2. Kapteenin wartit
-	3. Talvipäivät 15.1. klo 14:30 @ Amfi
+	1. Kapteenin wartit
+	2. Talvipäivät 15.1. klo 14:30 @ Amfi
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. Haalariompeluilta 16.1.
 	2. UraTiKAS 17.1.
 	3. Lalasauna 22.1.
-	4. YP-sitsit 9.2.
+	4. M0-infotilaisuus ti 30.1. klo 16:00 @ T-talo
+	5. YP-sitsit 9.2.
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
 ## Tärkeää
 
-### 1. Tärkeitä päivämääriä
-
-Nämä päivät kannattaa merkitä kalenteriin. Keväällä on toki muitakin tapahtumia, joten muista seurata tulevia viikkomaileja.
-
-* 1.3. Muistinnollaus 100001
-	* Killan vuosijuhlat! Juuri sinua tarvitaan, jotta juhlat saadaan järjestettyä
-* 15.-17.3. Titeenien Taistot Otaniemessä
-	* Kaikkien Suomen tietoteekkareiden yhteinen kokoontuminen ja leikkimielinen kisailu
-* 30.3. Piip
-* 16.4. Tööt
-
-Näistä tapahtumista on luvassa huikea määrä fuksipisteitä
-{: .teekkarikulttuuri}
-
-### 2. Kapteenin wartit
+### 1. Kapteenin wartit
 
 Kevään alkaessa on hyvä pistää käyntiin kapteenin wartit. Eli rennosti jutustellaan yleisistä fiiliksistä, ja että miten opiskelu on mennyt. Ei siis kannata pelätä
 
@@ -51,7 +37,7 @@ Käymällä kapteenin wartissa saat pakollisen pisteen pisteet/master - Kapteeni
 {: .master}
 
 
-### 3. Talvipäivät 15.1.
+### 2. Talvipäivät 15.1.
 
 Talvipäivä on täällä!
 
@@ -107,7 +93,19 @@ Loistava tilaisuus suorittaa pakollinen Laulukoe-piste. Laulukoe suoritetaan n:n
 Suorittamalla laulukokeen saat pakollisen pisteen pisteet/master - Laulukoe!
 {: .master}
 
-### 4. Ystävänpäiväsitsit 9.2. @Smökki
+### 4. M0-infotilaisuus ma 28.1. klo 16:00 @ T-talo
+
+Killan omat vuosijuhlat lähestyvät. Vuosijuhlien onnistumiseen vaaditaan monen vapaaehtoisen työpanosta.
+
+Killan tapahtumista arvokkain, vuosijuhla Muistinnollaus lähestyy! 100001. Muistinnollaus vietetään 1.-2.3. Vuosijuhlien onnistumiseen tarvitaan kuitenkin monen vapaaehtoisen, kuten myös sinun, työpanosta! Tule maanantaina 28.1. kuulemaan, millaista vuosijuhlien järjestäminen todellisuudessa on, ja millaisia tehtäviä juuri sinulle voisi löytyä! Kaikille on jotain: koristelusta cocktail-paloihin, tekniikasta seuraavan päivän silliaamiaisen ruoanlaittoon.
+
+Lisätietoja infotilaisuudessa tai Muistinnollaustirehtööreiltä (m0@tietokilta.fi)!
+
+Muistinnollauksessa työskentelemisestä saat pisteen pisteet/teekkarikulttuuri/työ - Muistinnollaus!
+{: .tyo}
+
+
+### 5. Ystävänpäiväsitsit 9.2. @Smökki
 Jes! Automaatio- ja systeemitekniikan killan, Tietokillan ja Fyysikkokillan ystävänpäiväsitsit ovat taas täällä tuomassa lämpöä sydämiin helmikuun kylmyydessä! Ota siis kaveri kainaloon ja suunnatkaa yhdessä 9.2. smökkiin sitsaamaan!
 
 Sitsit alkavat cocktail-tilaisuudella smökissä 17.30 ja gongi kumahtaa samassa paikassa klo. 18.00. Ilmoittautuminen alkaa 15.1. klo 12.00 osoitteessa <https://as.ayy.fi/ilmo/ystavanpaivasitsit> (Huom! Sulkeutuu 6.2.). Hintaa sitseille on vain vaivaiset 18 euroa, jos maksat etukäteen ja 20 e, jos maksat ovella. Avoimet jatkot myös smökissä heti sitsien jälkeen.
