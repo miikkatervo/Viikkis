@@ -63,7 +63,7 @@ Jatkojen esiintyjät julkaistaan tapahtumassa myöhemmin!
 Talvipäivään osallistumalla saat pisteen teekkarikulttuuri/suunnistukset - Talvipäivä!
 {: .suunnistukset}
 
-### Pohjanurkkaus
+## Pohjanurkkaus
 Tunne, kun on uusi vuosi ja uudet kujeet
 
 ![image](/kapteeninviikkomaili/assets/201901/kermit.gif){:width="75%"}
