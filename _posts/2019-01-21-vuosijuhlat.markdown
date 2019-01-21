@@ -12,10 +12,10 @@ Killan 34. vuosijuhlat ovat julkaistu ja juhlien onnistuminen vaatii monien vapa
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
 	1. Kapteenin wartit
-  2. Lalasauna 22.1. klo 18:00 @Avain sauna
+	2. Lalasauna 22.1. klo 18:00 @Avain sauna
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
 	1. M0-infotilaisuus ma 28.1. klo 16:00 @ T-talo
-  2. Rento koti-ilta 24.1. @Otarannan kerhotila
+	2. Rento koti-ilta 24.1. @Otarannan kerhotila
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
 ## Tärkeää
