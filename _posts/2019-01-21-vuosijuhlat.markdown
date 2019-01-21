@@ -5,7 +5,7 @@ date:   2019-01-21
 categories: fuksit
 ---
 
-Terveppä terve! Viimeviikon tapahtumien täyteläisen viikon vastapainoksi tällä viikolla meno on rennompaa. Huomenna tiistaina pääsemme lalasaunan tunnelmiin, jossa taas on mahdollisuutena suorittaa pakollinen fuksipiste. Torstaina taas marttakerho järjestää rentoa koti-ilta pitoista tapahtumaa, johon voi mennä latailemaan akkuja.
+Terveppä terve! Viimeviikon tapahtumien täyteläisen viikon vastapainoksi tällä viikolla meno on rennompaa. Huomenna tiistaina pääsemme lalasaunan tunnelmiin, jossa taas on mahdollisuutena suorittaa pakollinen fuksipiste. Torstaina taas marttakerho järjestää rentoa koti-ilta pitoista tapahtumaa, johon voi mennä latailemaan akkuja. (Muistakaa ilmoittautua, jolloin saatte ilmaista ruokaa)
 
 Killan 34. vuosijuhlat ovat julkaistu ja juhlien onnistuminen vaatii monien vapaaehtoisten osallistumista. Vapaaehtoisena pääsee näkemään isomman skaalan tapahtuman järjestämistä. Suosittelen sitä lämpimästi kaikille.
 
