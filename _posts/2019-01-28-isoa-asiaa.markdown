@@ -12,11 +12,11 @@ ISOinfo järjestetään pian, ja uusia ISOja tarvitaan ensi lukukaudelle järjes
 
 ## Sisällysluettelo
 1. [Tärkeää](#tärkeää)
-  1. Kapteenin wartit
-  2. ISOinfo 2019 20.2. @Otakaari 20
+    1. Kapteenin wartit
+    2. ISOinfo 2019 20.2. @Otakaari 20
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
-  1. Töihin Muistinnollaukseen
-  2. Tietokilta lähtee urheilemaan
+    1. Töihin Muistinnollaukseen
+    2. Tietokilta lähtee urheilemaan
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
 
