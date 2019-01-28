@@ -20,7 +20,7 @@ Muistutuksena vielä, että kapteenin wartteja voi nyt varata. Piste on pakollin
 	1. Haalariompeluilta 16.1.
 	2. UraTiKAS 17.1.
 	3. Lalasauna 22.1.
-	4. M0-infotilaisuus ti 30.1. klo 16:00 @ T-talo
+	4. M0-infotilaisuus ti 30.1. klo 16:00 @ T-talo T3
 	5. YP-sitsit 9.2.
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
@@ -93,7 +93,7 @@ Loistava tilaisuus suorittaa pakollinen Laulukoe-piste. Laulukoe suoritetaan n:n
 Suorittamalla laulukokeen saat pakollisen pisteen pisteet/master - Laulukoe!
 {: .master}
 
-### 4. M0-infotilaisuus ma 28.1. klo 16:00 @ T-talo
+### 4. M0-infotilaisuus ma 28.1. klo 16:00 @ T-talo T3
 
 Killan omat vuosijuhlat lähestyvät. Vuosijuhlien onnistumiseen vaaditaan monen vapaaehtoisen työpanosta.
 
