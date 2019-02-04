@@ -19,6 +19,7 @@ ISOinfo järjestetään pian, ja uusia ISOja tarvitaan ensi lukukaudelle järjes
     2. Tietokilta lähtee urheilemaan
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
+## Tärkeää
 
 ### 1. Kapteenin wartit
 
