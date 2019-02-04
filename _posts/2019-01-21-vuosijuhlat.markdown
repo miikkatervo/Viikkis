@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kapteenin viikkomaili 3/2019 -  Vuosijuhlat ovat julkaistu. Työpisteitä tarjolla"
+title:  "Kapteenin viikkomaili 3/2019 -  Vuosijuhlat ovat julkaistu"
 date:   2019-01-21
 categories: fuksit
 ---
