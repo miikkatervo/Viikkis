@@ -30,7 +30,7 @@ Laskiaisriehan ajokin rakentamiseen osallistumisesta saat pisteen pisteet/teekka
 {: .tyo}
 
 Laskiaisriehaan osallistumisesta saat pisteen pisteet/teekkarikulttuuri - Laskiaisrieha!
-{: .teeekkarikulttuuri}
+{: .teekkarikulttuuri}
 
 ### 1. Kapteenin wartit
 
