@@ -15,7 +15,8 @@ Terveppä terve. Tämä viikko onkin vaihteeksi hyvin info painotteinen. Työpis
 2. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
     1. Teekkarispeksin yhteislipputilaus
     2. Töihin Muistinnollaukseen
-    3. Töihin Potentiaalin Tasaukseen
+    3. Ystävänpäivän suklaantekoilta
+    4. Töihin Potentiaalin Tasaukseen
 3. [Pohjanurkkaus](#pohjanurkkaus)
 
 ## Tärkeää
@@ -95,7 +96,7 @@ TL;DR:
 * Mitä maksaa: ei mitään, tuo vaan hyvä mieli :)
 * Miksi: ilmaista suklaata ja kavereita
 
-### 3. Töihin Potentiaalin Tasaukseen
+### 4. Töihin Potentiaalin Tasaukseen
 
 Hae mukaan Potentiaalin Tasaus 98 -juhlien vapaahtoiseksi tai työpisteen suorittajaksi!
 
