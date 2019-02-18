@@ -9,7 +9,7 @@ Kevät lähestyy, ja siitä syystä kevätluento on edessä. Saa nähdä mitä k
 
 Tällä viikolla on killan vuosikokous. Pääsemme siis näkemään mitä suunnitelmia killalla on tulevalle vuodelle. Lisäksi myös tulee ilmi, miten asiat menivätkään viime vuonna.
 
-Muita asioita tällä viikolla on ISOinfo!! Eli torstaina paikalle OK20!
+Muita asioita tällä viikolla on ISOinfo!! Eli keskiviikkona paikalle OK20!
 
 Muistakaa käydä hoitamassa lakin sovitus ja tilaus ajoissa. Ettei vaan paniikki iske viimeisinä päivinä.
 
