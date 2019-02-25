@@ -7,7 +7,7 @@ categories: fuksit
 
 Hyvää vuosijuhlaviikkoa kaikille. Tällä viikolla tapahtuukiin kaikenlaista perinteistä, ja viikko huipentuu perjantaina vuosijuhliin!
 Tänään maanantaina on vuorossa killan perinteinen peli Otaniemipeli. Paikalle voi tulla kannustamaan joukkueita.
-Torstaina taas on vuorossa killan oman laulukirjan <i>Kovalevyn</i> läpilaulanta!
+Keskiviikkona taas on vuorossa killan oman laulukirjan <i>Kovalevyn</i> läpilaulanta!
 Kaikkien odottama Muistinnollaus on perjantaina, jossa moni teistä onkin töissä.
 
 Muita huomioita lähiajoista, on tasan viikon päästä oleva Kevätluento! Tämä on pakollinen luento lakkia haluavalle fuksille, joten sen ohittaminen ei ole suositeltavaa.
@@ -76,7 +76,7 @@ Työvoimaa tarvitaan vuoroittain seuraavasti:
 Työvoimaa tarvitaan enimmäkseen yöpäivystyksiin ja vähemmän päiväsaikaan
 
 Lisätietoja/More info: Jussi Impiö (jussi.impio [at] tietokilta.fi)
-Vapaaehtoiseksi ilmoittautuminen [TÄSTÄ](https://tietokilta.fi/tapahtumat/ilmot/titeenit-vapaaehtoset5)
+Vapaaehtoiseksi ilmoittautuminen [TÄSTÄ](https://tietokilta.fi/tapahtumat/ilmot/titeenit-vapaaehtoset)
 
 Menemällä Titeeneihin vapaaehtoiseksi saat pisteen pisteet/teekkarikulttuuri/työ - Työpiste!
 {: .tyo}
