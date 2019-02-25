@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kapteenin viikkomaili 8/2019 - Vuosijuhlaviikko"
-date:   2019-02-18
+date:   2019-02-25
 categories: fuksit
 ---
 
