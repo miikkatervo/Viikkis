@@ -33,7 +33,7 @@ Muistakaa käydä hoitamassa lakin sovitus ja tilaus ajoissa. Ettei vaan paniikk
 Luennolla puhutaan kevään tulevista tapahtumista. Luentoa kannattaa pitää pakollisena osallistumisena kevättä varten, joten sitä ei kannata ohittaa.
 
 
-### 1. Museokierrokset
+### 2. Museokierrokset
 
 Museon remontin vuoksi kierroksia järjestetään nyt video muodossa.
 Museofilmiä esitetään joka viikko sunnuntaisin klo 12:00 Kinopolissa. Paikkoja on rajalliset 18 kappaletta, joten paikalla kannattaa olla ajoissa mahtuakseen tilaisuuteen.
@@ -44,10 +44,10 @@ Tähän esitykseen ei ole mitään erillistä ilmoittautumista.
 Käymällä esityksessä saat <b>pakollisen</b> pisteen pisteet/master - Museokierros!
 {: .master}
 
-### 2. Lakkitilaus
+### 3. Lakkitilaus
 Lakkitilaus on nyt avattu teille! Käykää ketolla sovittamasa lakkia pistäkää tilaus eteenpäin. Tarkemmat tiedot tilauksesta olisi pitänyt tulla sähköposteihinne. Jos näin ei ole tapahtunut laittakaa minulle viestiä Telegramissa @Tomees tai sähköpostilla fuksikapteeni@tietokilta.fi
 
-### 1. Kapteenin wartit
+### 4. Kapteenin wartit
 
 Kapteenin wartti on pakollinen piste lakin saamiseksi. Jos et siis vielä ole wartissa käynyt, kannattaa ilmoittautua ajoissa.
 
