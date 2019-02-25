@@ -23,7 +23,6 @@ Muita huomioita lähiajoista, on tasan viikon päästä oleva Kevätluento! Täm
     2. Laskiaispullailta 4.3. klo 17 @ Ossinsauna
     3. Origami&sauna 9.3 klo 18 @ Ossinsauna
     4. Sodanjulistus-sitsit 15.3.
-3. [Pohjanurkkaus](#pohjanurkkaus)
 
 ## Tärkeää
 
