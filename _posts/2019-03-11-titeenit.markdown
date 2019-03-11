@@ -1,52 +1,47 @@
 ---
 layout: post
-title:  "Kapteenin viikkomaili 9/2019 - Wappu on julistettu"
-date:   2019-03-06
+title:  "Kapteenin viikkomaili 10/2019 - Titeenien taistoja kohti"
+date:   2019-03-11
 categories: fuksit
 ---
 
-Wappu on julistettu! Tästä syystä edessä on paljon tekemistä ja temmellystä. Tässä viikkomailissa on paljon tärkeää tietoa tulevasta, joten luethan <b>kaiken</b> huolella!
+Heissuli vei! Kohta päästään Titeenien taistoihin, missä kisaillaan mitä hassummissa ja oudoimmissa lajeissa ulkopaikkakuntalaisia vastaan. Perjantaina sota julistetaan sitsien muodossa. Sota jatkuukin aina sunnuntaihin asti, jolloin kruunataan killoista parhaiten suoriutunut. Tulkaa siis paikalle antamaan oma panoksenne, jotta Otaniemi olisi voitokas.
 
-Wappuluennon kalvot löytää [tästä](https://docs.google.com/presentation/d/1hbwIpLv8DMliZ7QhWqI7gQzEztoTdW4qAB2XwsdgXXI/edit?usp=sharing)
+Muuten viikkomaili ei ole päääosin muuttunut. Kertaushan on opintojen äiti! Wappuiset asiat häämöttävät vieläkin edessä, ja suosittelen teitä osallistumaan niistä jokaiseen! Fuksikevät on kuitenkin vain kerran elämässä!
+Ödwentsön jäynää kannattaa tässä vaiheessa alkaa miettimään todenteolla, sillä aikaa onkin enää kolme (3) viikkoa koitokseen!
 
-<div class="resp-container">
-<iframe class="resp-iframe" src="https://www.youtube.com/embed/RGFdAIxNM7g" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
+Vähän Wappua keveämpänä asiana tästä viikkomailista löytyy Helsinginkadun Appro.
 
 ## Sisällysluettelo
 1. [Tärkeää](#tarkeaa)
-    1. Fuksipistekortti ja pakolliset pisteet!
-    2. Ödwentsö 30.3.
-    3. Lakkitilaus
+    1. Lakkitilaus
+    2. Fuksipistekortti ja pakolliset pisteet!
+    3. Ödwentsö 30.3.
     4. Fuksintappo 16.4.
 2. [Fuksipeijaiset](#fuksipeijaiset)
     1. Fuksipeijaiset
     2. Yöjäynä
     3. Wapputempaus 3.4.
+3. [Fuksi- ja kilta-asiat](#fuksi--ja-kilta-asiat)
+    1. Titeenien taistot 15.-17.3.
+    1. Helsinginkadun appron 11.4. yhteislipputilaus
 
 
 ## Tärkeää
 
-### 1. Fuksipistekortti ja pakolliset pisteet!
+### 1. Lakkitilaus
+
+Käykää sovittamassa lakkia Ketolla mahdollisimman pian. Lakkien tilaaminen loppuu tällä viikolla 15.3! Myöhästyminen tarkoittaa sitä, ettei lakkia saa. Tarkemmat tiedot tilauksesta olisi pitänyt tulla sähköposteihinne. Jos näin ei ole tapahtunut laittakaa minulle viestiä Telegramissa @Tomees tai sähköpostilla fuksikapteeni@tietokilta.fi
+
+HUOM vielä kerran! Lakkitilauksen DL on 15.3. Myöhässä lakkia ei voi tilata
+
+### 2. Fuksipistekortti ja pakolliset pisteet!
 
 Fuksipistekortti pitää palauttaa 18.4. minulle. Siihen mennessä pistekortista pitää löytyä suoritettuina pakolliset pisteet tai niiden suorittaminen on tiedossa lähipäivinä.
 
 Ehdottomat pisteet ovat Museokierros, Laulukoe, Työpisteet ja Kapteenin wartti.
 
-* Museokierros
-  * Museofilmiä esitetään joka viikko sunnuntaisin klo 12:00 Kinopolissa. Paikkoja on rajalliset 18 kappaletta, joten paikalla kannattaa olla ajoissa mahtuakseen tilaisuuteen.
-* Laulukoe
-  * Voi suorittaa muiden tapahtumien aikana, tai kun minua näkee kiltahuoneella.
-  * Kokeeseen sisältyy N + 1 kappaletta.
-    * N on koetta suorittavan ryhmän koko.
-    * Teekkarihymni on ylimääräinen kappale, joka pitää osata ulkoa.
-* Työpisteet
-  * Vastaavat n. viiden (5) tunnin työvuoroa jossain tapahtumassa
-  * Esimerkkinä Tineenit ja killan sitsit
-* Kapteenin wartti
-  * Wartit pidetään T-talolla, ja ajan voi varata <b>[TÄSTÄ](https://docs.google.com/spreadsheets/d/1ap_SmvJQtSOqYn1-z0hCp-hl61Etyi6o7hL3U0MnYe4/edit?usp=sharing)</b> sheetistä.
-
-### 2. Ödwentsö 30.3.
+### 3. Ödwentsö 30.3.
 
 Ödwentsö on Tietokillan fuksien riemuntäyteinen ja huimanhauska seikkailupäivä. Kerää itsellesi n. 5 hengen joukkue. Ennen Ödwentsö-päivää joukkueen täytyy valmistaa itselleen lippu, suorittaa ennakkojäynä ja dokumentoida se. Ödwentsö huipentuu finaaliin, jossa parhaimmat jäynät ja liput palkitaan!
 
@@ -62,19 +57,15 @@ Linkki tapahtumaan on [TÄSSÄ](http://www.tietokilta.fi/tapahtumat/ilmot/odwent
 Osallistumalla Ödwentsöhön sinulla on mahdolisuus suorittaa piste pisteet/master - Kypsyysnäyte!
 {: .master}
 
-
-### 3. Lakkitilaus
-
-Käykää sovittamassa lakkia Ketolla mahdollisimman pian. Lakkitilauksen DL on 15.3. ja myöhästyminen tarkoittaa sitä, ettei lakkia saa. Tarkemmat tiedot tilauksesta olisi pitänyt tulla sähköposteihinne. Jos näin ei ole tapahtunut laittakaa minulle viestiä Telegramissa @Tomees tai sähköpostilla fuksikapteeni@tietokilta.fi
-
-HUOM vielä kerran! Lakkitilauksen DL on 15.3. Myöhässä lakkia ei voi tilata
-
 ### 4. Fuksintappo 16.4.
 
 Fuksi sinussa kuolee 16.4. Lisätietoa selviää myöhemmin
 
 Osallistumalla fuksintappoon saat pisteen pisteet/master - WAPPU!
 {: .master}
+
+
+
 
 ## Fuksipeijaiset
 
@@ -114,3 +105,25 @@ Hakemuksessa tulee käydä ilmi:
 * <b>Luovuutta, kekseliäisyyttä ja itsensä toteuttamista arvostetaan!</b>
 
 <i>Tähän hakeminen on äärimmäisen suositeltavaa! Pettymyksen kokee, jos ei hae!</i>
+
+## Fuksi- ja kilta-asiat
+
+### 1. Titeenien taistot 15.-17.3.
+
+Suomen tietoteekkarit kokoontuvat tänä vuonna Otaniemeen kilpaileemaan Titeenien voitosta. Luvassa on kiivasta taistelua erilaisissa lajeissa, johon tarvitaan myös teidän panostanne.
+
+Osallistumalla Titeeneihin saat pisteen pisteet/kilta - Titeenien taisto!
+{: .kilta}
+
+### 2. Helsinginkadun appro 11.4.
+
+Helsinginkadun appro on pian taas käsillä!
+
+Appro järjestetään sekä keskiviikkona 10. että torstaina 11.4., joistä jälkimmäiselle päivälle Tietokilta hankkii yhteystilauksessa lippuja. Tilatessasi yhteistilauksessa varmistat saavasi liput, koska yhteistilaukset prosessoidaan ennen lipunmyynnin avautumista kaikelle kansalle.
+
+Yhteistilaus toteutuu, jos ilmoittautuneita on yli 10. Yhteistilaus koskee vain torstain 11.4. lippuja. Lipun hinta on 15€ per approilija, ja ilmoittautuminen on sitova.
+
+Liity mukaan tilaukseen [TÄSTÄ](http://www.tietokilta.fi/tapahtumat/ilmot/hesari19)
+
+Osallistumalla Helsinginkadun approon saat pisteen pisteet/teekkarikulttuuri - Appro!
+{: .teekkarikulttuuri}
