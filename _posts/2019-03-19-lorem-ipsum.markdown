@@ -84,7 +84,7 @@ Käykää liittymässä tapahtumaan [TÄSTÄ](https://www.facebook.com/events/32
 
 ### 3. Yöjäynä 15.4. ja 29.4.
 
-Yöjäynä on mysteerinen kaksiosainen seikkailu täynnä yllätyksiä. Siihen valitaan yhdeksän (9) hengen joukkue, jotka ovat myös osa fuksipeijaisa. Luvassa on hauska ja ikimuistoinen lisä fuksiwappuun.
+Yöjäynä on mysteerinen kaksiosainen seikkailu täynnä yllätyksiä. Siihen valitaan yhdeksän (9) hengen joukkue, jotka ovat myös osa fuksipeijaisia. Luvassa on hauska ja ikimuistoinen lisä fuksiwappuun.
 
 Hakeminen joukkueeseen tapahtuu vapaamuotoisella hakemuksella, joka jätetään kiltahuoneelle merkittyyn paikkaan 3.4. klo 03:09:18 mennessä. Joukkueen valitsee arwowaltainen Yöjäynäraati
 
