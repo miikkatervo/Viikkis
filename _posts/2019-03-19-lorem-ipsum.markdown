@@ -10,6 +10,8 @@ Lakkitilaus on nyt ohitse, mahtavaa nähdä että teistä niin moni on mukana.
 
 <b>Ödwentsön ilmoittautumisen DL lähenee päivä päivältä, joten käykäähän ilmoittautumassa hyvissä ajoin.</b>
 
+Jos muuten et ole lukenut ensimmäistä päiväkäskyä, niin käy lukemassa se kiltahuoneen seinältä!
+
 
 ## Sisällysluettelo
 1. [Tärkeää](#tarkeaa)
