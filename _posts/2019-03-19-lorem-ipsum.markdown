@@ -95,6 +95,8 @@ Hakemuksessa tulee käydä ilmi:
 * <b>Luovuutta, kekseliäisyyttä ja itsensä toteuttamista arvostetaan!</b>
 
 Hakemuksen voi jättää kiltahuoneelle alla näkyvään sijaintiin.
+
+
 ![image](/kapteeninviikkomaili/assets/201911/hakemus.jpg){:height="10px" width="60%"}
 
 <i>Tähän hakeminen on äärimmäisen suositeltavaa! Pettymyksen kokee, jos ei hae!</i>
