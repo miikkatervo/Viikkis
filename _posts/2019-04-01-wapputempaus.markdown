@@ -94,7 +94,16 @@ Wartit pidetään T-talolla, ja ajan voi varata <b>[TÄSTÄ](https://docs.google
 
 ### 3. Fuksintappo 16.4.
 
-Fuksi sinussa kuolee 16.4. Lisätietoa selviää myöhemmin
+Ilmoittautuminen: <https://ilmo.prodeko.org/fi/766>
+
+Sisäinen fuksisi kuolee vain kerran, joten ota siitä kaikki irti. Fuksitappo on jännittävä seikkailu Otaniemessä läpi haasteiden ja vaarojen, kenen muunkaan, kuin parhaiden ystäviesi kanssa. Tule mukaan ja koe se itse! Seikkailu alkaa OK20:n yläkerrasta ja jatkot Rantsulla tapahtuman loputtua, missä on tarjolla ruokaa.
+TAPAHTUMA ON ALKOHOLITON!
+
+* MITÄ? Fuksitappo 2019
+* MISSÄ? Otaniemessä
+* MILLOIN? 16.4. klo 19.00-02.00
+* DC? Haalarit
+* MIKSI? Jotta teekkari voi syntyä, fuksin on kuoltava.
 
 Osallistumalla fuksintappoon saat pisteen pisteet/master - WAPPU!
 {: .master}
