@@ -5,7 +5,7 @@ date:   2019-04-08
 categories: fuksit
 ---
 
-Heisun veisun! Fuksipeijaisjoukkue on nyt valittu ja itse peijaisetkin on laitettu käyntiin. Wapputempaus onnistui yli odotuksien! Tähän asti rahaa on kerättä lähes kymmenentuhatta euroa. Teidän tekemä kirjainkin komeilee kauniisti vielä pitkään Lasipalatsin seinällä. 
+Heisun veisun! Fuksipeijaisjoukkue on nyt valittu ja itse peijaisetkin on laitettu käyntiin. Wapputempaus onnistui yli odotuksien! Tähän asti rahaa on kerätty yli kymmenentuhatta euroa! Teidän tekemä kirjainkin komeilee kauniisti vielä pitkään Lasipalatsin seinällä. 
 
 Peijaisjoukkueen haku on ohi, mutta jos yhä kiinnostaa tulla mukaan, niin pistä viestiä minulle @Tomees. Ehdit hyvin vielä mukaan.
 
