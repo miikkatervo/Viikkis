@@ -139,6 +139,8 @@ Tapahtuman ovet aukeavat klo 17.10 ilmoittautumisen 250 ensimmäiselle. Kello 17
 
 Ilmo aukeaa 16.4. klo 12:34:56 osoitteessa <www.minuuttikalja.fi>
 
+
+### 3. Walpurin kierros 29.4.
 Jo speksit päättyy, koittaa aatonaaton ilta. Aurinko laskee, odottaa jokainen kilta. 
 Oi Wappu miss’ olet, saavu jo meille, tahdomme päästä sun loistosi teille!
 Mut maltahan, oi ystävä rakas, pian Wappu tulee luoksemme takas,
