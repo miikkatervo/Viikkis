@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kapteenin viikkomaili 16/2019 - Huomenna fuksi sinussa kuolee"
+title:  "Kapteenin viikkomaili 15/2019 - Huomenna fuksi sinussa kuolee"
 date:   2019-04-15
 categories: fuksit
 ---
