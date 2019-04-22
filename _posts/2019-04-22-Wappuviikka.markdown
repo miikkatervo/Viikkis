@@ -117,8 +117,8 @@ Voittajat julkistetaan Wappuriehan julistuksessa Smökin katolta 30.4.!
 * MIKSI: Koska Wappu, hauskanpito ja huikeat palkinnot!
 
 ### Pohjanurkkaus
-Vuosi on mennyt nopeasti. Tuntuu, että juuri äskenhän te saavuitte tänne Otaniemeen saavuitte. On ollut ilo seurata toimintaanne täällä, ja on mahtavaa nähdä, että niin moni teistä tulee Wappuna lakkinna hakemaan.
+Vuosi on mennyt nopeasti. Tuntuu, että juuri äskenhän te saavuitte tänne Otaniemeen saavuitte. On ollut ilo seurata toimintaanne täällä, ja on mahtavaa nähdä, että niin moni teistä tulee Wappuna lakkinna hakemaan. Viimeistä viikkoa viedään, jonka jälkeen teistäkin tulee teekkareita.
 
-Tässä kuva ensimmäisen viikkonne jälkeen. Kiitos teille mahtavasta vuodesta. Viimeistä viikkoa viedään, jonka jälkeen teistäkin tulee teekkareita.
+Tässä kuva ensimmäisen viikkonne jälkeen. Kiitos teille mahtavasta vuodesta. 
 
 ![image](/kapteeninviikkomaili/assets/201917/fuksit.jpg){: width="90%"}
