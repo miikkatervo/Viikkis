@@ -51,7 +51,7 @@ Siitä onkin hyvä paikka lähteä Walpurin kierrokselle.
 
 ### 3. Zombieaamiainen 30. klo 06:30 @ Paniikki, T-talo
 
-Viimeinen ateria kuolleille fukseille, zombeille, ennen ylösnousemusta teekkariksi tarjoillaan klo 6:30 alkaen JMT3:n Takkakabinetissa.
+Viimeinen ateria kuolleille fukseille, zombeille, ennen ylösnousemusta teekkariksi tarjoillaan klo 6:30 alkaen T-Talossa Paniikissa.
 
 Zombieaamiaisella jaetaan esteettömyystodistukset kaikille lakkinsa Amfilla ansainnelle, sekä siirrytään yhdessä ohjatusti lakkienjakoon. Kaikkien lakkinsa Amfilla haluavien on oltava paikalla!
 
