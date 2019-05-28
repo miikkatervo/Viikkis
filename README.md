@@ -8,7 +8,7 @@ Sisältää footerin headerin ja head-osion sivusta.
 Scripti importit ja css importit voi mukavasti pistää headiin
 
 ### layouts
-Sivuston eri ulkoasut ovat täällä.
+Sivuston eri ulkoasut ovat täällä. Tärkeät filut ovat boldattu
 * archive.html: Ei tällä hetkellä käytössä (Luultavasti voi poistaa)
 * default.html: Käytetään sivulle yhteisien elementtien luomiseen
 * <b>home.html</b>: On etusivu. Listaa kaikki tähän asti tulleet blogi-postaukset
@@ -41,7 +41,7 @@ img-kansiossa on teemaan liittyviä kuvia.
 
 ## Ensimmäiseksi
 Forkkaa vaikka tämä repo itsellesi. Sitten mene repon asetuksiin kohtaan <i>Github Pages</i>
-Sieltä valitse master-branch Sourceksi ja Teemaksi Minima. Jokin pohjateema pitää valita, niin Minima ei tuo mitään ylimääräistä.
+Sieltä valitse <b>sourceksi</b> master-branch ja <b>teemaksi</b> Minima. Jokin pohjateema pitää valita, niin Minima ei tuo mitään ylimääräistä.
 
 Onnittelut, Githubin osalta kaikki on tehty!
 
@@ -55,8 +55,16 @@ Muut asetukset toimivat hyvin sellaisinaan.
 Jokainen uusi postaus on oma tiedostonsa posts-kansiossa. Jekyll osaa automaattisesti löytää ne sieltä, ja kääntää sivulle.
 Tiedostonimen muoto on yyyy-mm-dd-hieno-otsikko.markdown.
 
-Kun aloitat pistä päälle jekyll:
+Esimerkkiä postauksesta kannattaa katsoa tästä reposta.
+
+Kun aloitat pistä päälle jekyll tässä kansiossa:
+
 `jekyll serve` 
+
 Niin saat reaaliaikaisen sivun pystyyn. Helpottaa huomattavasti työskentelyä.
 
-Kun olet saanut postauksen tehtyä kuvine ja kaikkineen, kommitoi se ja puske. Github tekee kaiken sen jälkeen puolestasi
+Kun olet saanut postauksen tehtyä kuvine ja kaikkineen, kommitoi se ja puske. Github tekee kaiken sen jälkeen puolestasi.
+
+Seuraavaksi navigoi omalle github-pages sivustollesi. Sivujen pitäisi nyt näkyä siellä. Linkin sinne löydät repon asetuksista kohdasta <i>Github Pages</i>
+
+Huomioita! Jos pistät front-matteriin päiväyksen, joka on tulevaisuudessa, se EI näy etusivulla.
