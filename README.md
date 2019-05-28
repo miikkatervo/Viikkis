@@ -39,7 +39,7 @@ img-kansiossa on teemaan liittyviä kuvia.
 
 ## Miten koko homma siis toimii?
 
-## Ensimmäiseksi
+### Ensimmäiseksi
 Forkkaa vaikka tämä repo itsellesi. Sitten mene repon asetuksiin kohtaan <i>Github Pages</i>
 Sieltä valitse <b>sourceksi</b> master-branch ja <b>teemaksi</b> Minima. Jokin pohjateema pitää valita, niin Minima ei tuo mitään ylimääräistä.
 
@@ -51,7 +51,7 @@ Tärkeimmät osuudet ovat email, edition, title, baseurl ja url.
 
 Muut asetukset toimivat hyvin sellaisinaan.
 
-## Postauksen luominen
+### Postauksen luominen
 Jokainen uusi postaus on oma tiedostonsa posts-kansiossa. Jekyll osaa automaattisesti löytää ne sieltä, ja kääntää sivulle.
 Tiedostonimen muoto on yyyy-mm-dd-hieno-otsikko.markdown.
 
@@ -72,3 +72,10 @@ Huomioita!
 Jos pistät front-matteriin päiväyksen, joka on tulevaisuudessa, se EI näy etusivulla.
 
 Jos sivu ei päivity pushin jälkeen, niin kokeile pistää perään tyhjä kommitti. Se joskus auttaa triggeröimään buildauksen Githubissa
+
+### Sähköposti
+Tuolta löytyy python filu mail.py, millä voi poistaa markdownin postauksesta. Jaksoin käyttää sitä ehkä kuukauden, kunnes lähetin sähköpostissa vain linkin sivustolle. Ihan turhaa sitä kirjoittaa viikkomailia kahteen paikkaan.
+
+
+## Tunnettuja ongelmia
+Telegram excerptit eivät toimi vaikka og-tagien pitäisi olla okein. En tiedä yhtään miksi ei toimi, joten sitä saa kokeilla korjata.
