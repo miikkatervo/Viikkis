@@ -67,4 +67,8 @@ Kun olet saanut postauksen tehtyä kuvine ja kaikkineen, kommitoi se ja puske. G
 
 Seuraavaksi navigoi omalle github-pages sivustollesi. Sivujen pitäisi nyt näkyä siellä. Linkin sinne löydät repon asetuksista kohdasta <i>Github Pages</i>
 
-Huomioita! Jos pistät front-matteriin päiväyksen, joka on tulevaisuudessa, se EI näy etusivulla.
+Huomioita! 
+
+Jos pistät front-matteriin päiväyksen, joka on tulevaisuudessa, se EI näy etusivulla.
+
+Jos sivu ei päivity pushin jälkeen, niin kokeile pistää perään tyhjä kommitti. Se joskus auttaa triggeröimään buildauksen Githubissa
