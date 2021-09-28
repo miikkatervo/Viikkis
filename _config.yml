@@ -23,7 +23,7 @@ url: "https://hajoppi.github.io/kapteeninviikkomaili/" # the base hostname & pro
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
